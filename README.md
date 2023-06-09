@@ -51,6 +51,6 @@ A centroid counter programmed in python.
 <br>
 
 ***
-<cite><a href="https://github.com/khkhiu/Singapore_Polytechnic-Programmable_Logic_Controller_Vending_Machine">PLC vending machine</a></cite>
+<cite><a href="https://github.com/khkhiu/Singapore_Polytechnic-Programmable_Logic_Controller_Vending_Machine">Project: PLC vending machine</a></cite>
 ***
 Simulation of a vending machine using a Siemens Programmable Logic Controller(PLC).
