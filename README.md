@@ -23,7 +23,7 @@ A project built for SP's 2nd introduction to engineering module. Completed in Ye
 <br>
 
 ***
-<cite><a href="https://github.com/khkhiu/Polytechnic_project_repository/tree/main/Data_analytics_with_Knime">Project: Data Analytics</a></cite>
+<cite><a href="https://github.com/khkhiu/Polytechnic_project_repository/tree/main/Data_analytics_with_Knime">Project: Data Analytics with Knime</a></cite>
 ***
 The project done for SP's 'Statistics and Analytics for Engineers(SAE)' module. Completed in Year 2 Semester 1.
 <br>
