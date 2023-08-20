@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="15.1.0.0"
+    CreationTime="2022-02-11 06:12:27 (UTC)"
+    Runtime="COLORADO"
+    RtProjectName="P1415249_KhiuKimHong.HMI_1[TP700 Comfort]"
+    RtProjectFolderName="P1415249_KhiuKimHong.HMI_1[TP700 Comfort]"
+    DeviceType="TP700 Comfort"
+    DisplayOrientation="0"
+    RTReleaseNo="15.1.0.3"
+    ImageReleaseNo="15.1.0.3"
+    RTCV="15.1.0.0"
+    PRCV="15.1.0.0"
+    FirmwareFileName="CP_7_9\15.1.0.3\CP_7_9_12_V15_1.fwf"
+    RuntimeFileName="CP_7_9\15.1.0.3\CP_7_9_12_V15_1.ruf"
+    RuntimeAddonFolderName="CP_7_9" />
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+  <FullDownload>DeviceSettings.hsf</FullDownload>
+</DownloadTask>

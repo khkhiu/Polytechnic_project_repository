@@ -1,0 +1,20 @@
+<OnlineDevices>
+  <OnlineDevice VendorID="2A" DeviceID="513" TypeID="2A0513" DeviceType="SINAMICS G120 CU250">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>drivexb24ea3</NameOfStation>
+    <MacAddress>68-3E-02-00-DC-3D</MacAddress>
+    <IPAddress>0.0.0.0</IPAddress>
+  </OnlineDevice>
+  <OnlineDevice VendorID="2A" DeviceID="A0B" TypeID="2A0A0B" DeviceType="SCALANCE XC-200">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>switchxb18774</NameOfStation>
+    <MacAddress>20-87-56-EE-A8-ED</MacAddress>
+    <IPAddress>192.168.0.2</IPAddress>
+  </OnlineDevice>
+  <OnlineDevice VendorID="2A" DeviceID="313" TypeID="2A0313" DeviceType="ET200SP">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>ioxadevicexb1652a</NameOfStation>
+    <MacAddress>AC-64-17-5D-3D-97</MacAddress>
+    <IPAddress>192.168.0.6</IPAddress>
+  </OnlineDevice>
+</OnlineDevices>
