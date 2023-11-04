@@ -53,4 +53,11 @@ A centroid counter programmed in python. Completed in Year 2 Semester 1.
 ***
 <cite><a href="https://github.com/khkhiu/Polytechnic_project_repository/tree/main/Programmable_Logic_Controller_Vending_Machine">Project: PLC vending machine</a></cite>
 ***
-Simulation of a vending machine using a Siemens Programmable Logic Controller(PLC). Completed in Year 2 Semester 1.
+Simulation of a vending machine using a Siemens Programmable Logic Controller(PLC). Completed in Year 2 Semester 2.
+<br>
+<br>
+
+***
+<cite><a href="https://github.com/khkhiu/Polytechnic_project_repository/tree/main/EEE_Notes">EEE Notes</a></cite>
+***
+Most notes, tutorials and past-year papers for Singapore Polytechnic's Diploma in Electrical Electronic Engineering (DEEE) for Academic Years 2020 to 2023.
