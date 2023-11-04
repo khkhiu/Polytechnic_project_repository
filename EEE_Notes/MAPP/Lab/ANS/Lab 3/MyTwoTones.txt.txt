@@ -1,0 +1,82 @@
+// BuzzOne.c
+// Program to activate buzzer with one tone
+// For project using USB interface with Bootloader
+
+#include <p18F4550.h>
+#include <delays.h>
+
+// Include this when using Bootloader Program ================================
+#pragma udata
+
+extern void _startup (void);        // See c018i.c in your C18 compiler dir
+#pragma code _RESET_INTERRUPT_VECTOR = 0x000800
+void _reset (void)
+{
+    _asm goto _startup _endasm
+}
+#pragma code
+
+#pragma code _HIGH_INTERRUPT_VECTOR = 0x000808
+void _high_ISR (void)
+{
+    ;
+}
+
+#pragma code _LOW_INTERRUPT_VECTOR = 0x000818
+void _low_ISR (void)
+{
+    ;
+}
+#pragma code
+
+#pragma code
+
+// additional codes ends here ===============================================================
+
+// Your program declarations start here:====
+
+unsigned char v_name;
+
+//--------------------------------------------------------
+void tone1(void)	//Function to generate one tone
+{
+	unsigned int  i,k;
+	
+	for(k = 4000; k>0; k--)		//Determines duration of tone
+	{
+		for(i = 200; i>0; i--);	//Determines pitch of tone	
+		PORTCbits.RC0 = !PORTCbits.RC0; 	//Invert logic level at RC0
+	}
+}
+//--------------------------------------------------------
+void tone2(void)	//Function to generate another tone
+{
+	unsigned int  i,k;
+	
+	for(k = 2000; k>0; k--)		//Determines duration of tone
+	{
+		for(i = 400; i>0; i--);	//Determines pitch of tone	
+		PORTCbits.RC0 = !PORTCbits.RC0; 	//Invert logic level at RC0
+	}
+}
+//--------------------------------------------------------
+void main(void)
+{
+	ADCON1 = 0x0F;
+	TRISCbits.TRISC0=0; 	//-- Set RC0 as output
+	TRISD = 0x00;		//-- Set all pins on PortD as output
+
+	while(1)
+	{
+		tone1();		//sound tone1 then OFF
+		PORTD=0b10101010;	//pattern on LEDs
+	
+		tone2();		//sound tone2 then OFF
+		PORTD=0b01010101;	//another pattern on LEDs
+	}
+}						
+
+
+
+		
+

@@ -1,0 +1,1001 @@
+enrolment_id,gender,relevent_experience,enrolled_university,education_level,major_discipline,experience,last_new_job,training_hours,target
+28806,Male,Has relevent experience,no_enrollment,High School,,5,1,24,0
+25619,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,3,23,0
+11399,Female,Has relevent experience,no_enrollment,Degree,Arts,4,1,132,1
+13643,,No relevent experience,no_enrollment,Degree,No Major,9,0,108,0
+4476,Male,Has relevent experience,no_enrollment,Degree,No Major,15,>4,20,1
+31449,Female,Has relevent experience,no_enrollment,Masters,STEM,2,1,4,0
+22070,Male,No relevent experience,no_enrollment,Degree,STEM,>20,1,136,0
+28751,,No relevent experience,Full time course,High School,,4,3,75,0
+25349,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,28,0
+10555,Male,Has relevent experience,no_enrollment,Degree,STEM,12,2,8,0
+24608,Male,No relevent experience,no_enrollment,Degree,STEM,9,2,15,0
+30098,Male,Has relevent experience,no_enrollment,Masters,Other,>20,>4,8,0
+9475,Male,Has relevent experience,no_enrollment,Degree,STEM,9,>4,11,0
+13083,Male,Has relevent experience,no_enrollment,Masters,STEM,10,>4,29,0
+7342,Male,Has relevent experience,no_enrollment,Degree,STEM,11,3,102,0
+13152,Male,Has relevent experience,no_enrollment,Degree,STEM,13,1,96,0
+25290,,Has relevent experience,no_enrollment,High School,,<1,1,29,0
+27277,,No relevent experience,no_enrollment,Degree,STEM,2,1,20,0
+25182,,No relevent experience,no_enrollment,High School,,2,0,58,0
+9384,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,143,0
+1568,Male,Has relevent experience,no_enrollment,Degree,STEM,15,4,50,0
+29440,Male,Has relevent experience,no_enrollment,Degree,STEM,4,2,60,1
+21078,Female,Has relevent experience,no_enrollment,Degree,STEM,9,1,17,0
+6008,Male,Has relevent experience,no_enrollment,High School,,>20,>4,38,0
+28229,Male,Has relevent experience,Part time course,Degree,STEM,18,>4,51,0
+8540,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,52,0
+5340,Male,Has relevent experience,no_enrollment,Degree,Business Degree,>20,0,109,0
+9387,Male,Has relevent experience,,High School,,6,2,20,0
+30636,Male,No relevent experience,Full time course,Degree,STEM,1,1,72,1
+22508,Female,No relevent experience,Part time course,Degree,STEM,5,1,16,0
+1563,Male,Has relevent experience,no_enrollment,Degree,STEM,12,3,25,0
+22742,,Has relevent experience,no_enrollment,Degree,STEM,9,1,56,0
+24981,,Has relevent experience,no_enrollment,Degree,STEM,9,,62,0
+6909,Female,No relevent experience,no_enrollment,Masters,STEM,7,1,98,1
+29508,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1,24,0
+6379,,Has relevent experience,no_enrollment,Masters,STEM,>20,2,18,0
+3248,Male,No relevent experience,no_enrollment,High School,,4,0,94,0
+26025,Male,No relevent experience,Full time course,Degree,STEM,3,0,73,1
+7193,Male,No relevent experience,Full time course,High School,,5,1,55,0
+29737,Male,Has relevent experience,no_enrollment,Degree,STEM,7,>4,15,0
+21442,Male,Has relevent experience,no_enrollment,Degree,STEM,11,1,206,1
+18,Male,No relevent experience,no_enrollment,Degree,STEM,>20,>4,24,0
+10930,Male,Has relevent experience,no_enrollment,,,>20,>4,17,0
+6407,,Has relevent experience,Full time course,High School,,7,2,82,0
+20116,,Has relevent experience,no_enrollment,Degree,STEM,11,,11,1
+10285,,Has relevent experience,no_enrollment,Degree,STEM,15,4,42,0
+12217,Male,Has relevent experience,Part time course,Degree,STEM,10,4,206,0
+13720,Male,Has relevent experience,no_enrollment,High School,,16,>4,73,0
+10602,,Has relevent experience,Full time course,Masters,STEM,5,,92,0
+27678,Male,Has relevent experience,Part time course,Degree,STEM,3,2,11,0
+23741,Male,Has relevent experience,no_enrollment,Degree,STEM,2,2,89,1
+33255,Male,Has relevent experience,no_enrollment,Degree,STEM,2,1,10,1
+33049,Male,Has relevent experience,no_enrollment,Degree,STEM,9,1,20,0
+22238,Female,Has relevent experience,no_enrollment,Degree,STEM,16,>4,27,0
+2015,Male,Has relevent experience,no_enrollment,Degree,STEM,17,1,48,1
+16787,Male,Has relevent experience,no_enrollment,Masters,STEM,12,>4,154,0
+5306,,Has relevent experience,,,,10,3,14,0
+23328,Male,No relevent experience,Full time course,Degree,STEM,3,1,45,1
+21443,Male,Has relevent experience,no_enrollment,Degree,STEM,4,2,94,1
+26974,Male,Has relevent experience,Full time course,High School,,6,3,167,0
+8388,Male,No relevent experience,Full time course,High School,,<1,0,37,0
+32631,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,>4,5,1
+1708,Male,Has relevent experience,Full time course,High School,,5,2,36,1
+19605,,No relevent experience,,Degree,STEM,1,1,110,1
+26270,Female,Has relevent experience,no_enrollment,Degree,Humanities,4,3,127,1
+33068,Male,Has relevent experience,no_enrollment,Degree,STEM,2,1,9,0
+273,Male,No relevent experience,Full time course,High School,,5,0,18,0
+15125,Male,Has relevent experience,no_enrollment,Degree,STEM,19,>4,3,1
+1471,Male,Has relevent experience,Part time course,Degree,Humanities,11,>4,166,0
+12402,Male,No relevent experience,Full time course,Degree,STEM,2,1,50,0
+27373,,Has relevent experience,no_enrollment,Degree,STEM,8,1,88,0
+26132,Male,Has relevent experience,no_enrollment,Degree,STEM,11,>4,21,0
+11045,,Has relevent experience,no_enrollment,Degree,STEM,3,1,284,1
+31713,Male,No relevent experience,no_enrollment,Degree,STEM,3,1,2,1
+31967,Male,Has relevent experience,no_enrollment,Degree,STEM,7,0,102,0
+26351,Male,Has relevent experience,no_enrollment,Degree,STEM,14,>4,28,1
+6157,Male,Has relevent experience,no_enrollment,Phd,STEM,12,1,51,0
+20728,Male,Has relevent experience,no_enrollment,Masters,STEM,8,2,80,0
+25613,Male,Has relevent experience,no_enrollment,Degree,STEM,9,2,104,0
+2688,Male,Has relevent experience,Full time course,Degree,STEM,4,0,7,1
+17887,Male,Has relevent experience,,,,3,,28,1
+18968,,Has relevent experience,no_enrollment,Degree,Arts,12,3,28,0
+9305,Male,Has relevent experience,no_enrollment,Degree,STEM,11,1,91,0
+4730,Male,Has relevent experience,no_enrollment,Degree,STEM,19,>4,24,0
+7713,Male,Has relevent experience,no_enrollment,Degree,STEM,18,>4,126,0
+6849,Male,No relevent experience,no_enrollment,Degree,STEM,>20,0,31,0
+3746,Male,Has relevent experience,Full time course,Degree,STEM,2,0,55,0
+32615,Male,No relevent experience,no_enrollment,Primary School,,<1,2,85,0
+29968,Female,No relevent experience,Full time course,Degree,STEM,3,1,75,1
+14043,,Has relevent experience,no_enrollment,Degree,STEM,15,>4,97,1
+30715,Male,Has relevent experience,no_enrollment,Degree,STEM,10,1,4,0
+28977,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,4,33,0
+898,Male,Has relevent experience,no_enrollment,High School,,15,2,32,1
+25317,Male,Has relevent experience,no_enrollment,Degree,STEM,6,3,198,1
+2283,Male,Has relevent experience,no_enrollment,Degree,STEM,19,2,16,0
+32391,Male,No relevent experience,Part time course,High School,,3,0,65,0
+19716,Male,Has relevent experience,no_enrollment,Degree,STEM,11,1,6,0
+12671,Male,No relevent experience,Full time course,Degree,STEM,1,1,42,1
+17073,Male,Has relevent experience,no_enrollment,Degree,STEM,10,0,24,1
+32846,Male,No relevent experience,Full time course,Degree,STEM,2,2,8,1
+16388,,Has relevent experience,Full time course,High School,,6,1,99,0
+21701,,Has relevent experience,Full time course,Degree,STEM,5,0,40,0
+30499,Male,Has relevent experience,no_enrollment,Degree,STEM,12,1,190,0
+2713,,Has relevent experience,no_enrollment,Degree,STEM,10,1,9,0
+27480,Male,Has relevent experience,Full time course,Degree,STEM,6,1,45,0
+15756,,No relevent experience,Full time course,High School,,2,1,74,0
+29971,Male,No relevent experience,no_enrollment,Degree,STEM,4,1,14,1
+18076,Male,Has relevent experience,no_enrollment,Degree,STEM,5,3,73,0
+9300,,Has relevent experience,no_enrollment,Degree,STEM,13,>4,29,0
+19948,Male,Has relevent experience,no_enrollment,Degree,Other,5,1,28,0
+29673,Male,No relevent experience,Part time course,Masters,STEM,3,0,22,0
+3536,Male,Has relevent experience,Full time course,Degree,STEM,14,2,40,0
+32018,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,50,1
+27567,Male,Has relevent experience,no_enrollment,High School,,>20,3,67,0
+26797,Male,No relevent experience,Full time course,Degree,STEM,2,0,42,1
+26906,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,59,0
+5901,,Has relevent experience,no_enrollment,Degree,STEM,6,2,33,0
+4156,Female,Has relevent experience,no_enrollment,Degree,STEM,3,0,28,0
+27461,Male,Has relevent experience,no_enrollment,Masters,STEM,18,>4,59,0
+16929,,Has relevent experience,no_enrollment,Masters,Other,15,4,43,0
+33244,Male,Has relevent experience,Part time course,Degree,STEM,8,4,85,0
+11906,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,27,0
+19129,,No relevent experience,no_enrollment,Masters,Business Degree,19,2,15,0
+10679,Male,Has relevent experience,Full time course,Degree,STEM,2,1,17,0
+23721,Male,No relevent experience,,High School,,1,0,61,1
+6074,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,4,61,0
+3989,Male,Has relevent experience,no_enrollment,Degree,STEM,7,1,86,0
+110,,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,6,0
+10672,Female,No relevent experience,no_enrollment,Degree,STEM,<1,3,48,0
+2009,Male,Has relevent experience,no_enrollment,Masters,Humanities,15,4,12,0
+33113,Male,Has relevent experience,no_enrollment,Degree,No Major,19,1,130,0
+21890,Male,Has relevent experience,no_enrollment,Degree,STEM,4,1,68,1
+9916,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,55,0
+30874,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,1,91,0
+29309,Male,Has relevent experience,no_enrollment,Masters,STEM,2,1,6,0
+27015,Male,Has relevent experience,no_enrollment,Degree,STEM,16,1,107,0
+16720,Male,No relevent experience,Full time course,High School,,10,0,68,0
+26708,Male,Has relevent experience,Part time course,Degree,STEM,8,1,36,1
+624,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,2,26,0
+13189,Female,Has relevent experience,no_enrollment,Phd,STEM,>20,>4,170,0
+8395,Male,Has relevent experience,no_enrollment,Degree,STEM,7,1,81,0
+9405,Male,Has relevent experience,Full time course,Masters,STEM,<1,1,12,0
+29842,Male,No relevent experience,no_enrollment,Degree,STEM,5,2,86,1
+8975,Other,No relevent experience,Full time course,Degree,Other,5,1,2,0
+1495,Male,No relevent experience,Full time course,Masters,Other,15,0,188,0
+1999,Male,No relevent experience,Full time course,High School,,2,1,28,0
+17238,Male,Has relevent experience,no_enrollment,Degree,STEM,7,1,24,0
+6675,Male,Has relevent experience,no_enrollment,Phd,STEM,11,2,58,0
+23546,Male,No relevent experience,Full time course,Degree,STEM,5,0,14,0
+27620,Male,Has relevent experience,no_enrollment,Degree,STEM,9,1,69,0
+7251,Male,No relevent experience,no_enrollment,Masters,STEM,6,>4,246,0
+31559,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,44,0
+3288,Male,Has relevent experience,no_enrollment,Degree,STEM,5,2,222,0
+20848,Female,Has relevent experience,no_enrollment,Degree,STEM,12,1,94,0
+18834,Female,Has relevent experience,Part time course,Degree,STEM,5,3,49,0
+12611,Male,Has relevent experience,no_enrollment,High School,,5,1,24,1
+27673,Male,Has relevent experience,no_enrollment,Degree,STEM,20,1,19,0
+16068,,Has relevent experience,,Masters,STEM,19,0,28,0
+15270,Male,No relevent experience,no_enrollment,Primary School,,4,0,41,0
+28678,Male,Has relevent experience,no_enrollment,Degree,STEM,4,2,292,0
+18732,Male,No relevent experience,Full time course,Masters,STEM,7,1,54,0
+6245,Male,No relevent experience,Part time course,Degree,STEM,1,0,29,1
+14548,,Has relevent experience,no_enrollment,Degree,STEM,3,2,36,1
+28454,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,33,0
+24866,,No relevent experience,Full time course,,,4,0,41,1
+13926,Male,Has relevent experience,Full time course,Degree,STEM,7,4,33,0
+14455,Male,Has relevent experience,Full time course,Degree,STEM,3,1,24,0
+19497,Male,Has relevent experience,no_enrollment,High School,,5,0,210,0
+9325,,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,32,0
+4385,,No relevent experience,Part time course,Degree,STEM,4,,46,1
+24188,Male,Has relevent experience,no_enrollment,Degree,STEM,5,1,86,0
+7175,Male,Has relevent experience,no_enrollment,Degree,STEM,5,1,5,0
+1997,Male,Has relevent experience,no_enrollment,Masters,STEM,8,1,5,1
+9723,Male,Has relevent experience,no_enrollment,,,6,2,23,0
+21008,Male,Has relevent experience,no_enrollment,Degree,STEM,9,2,66,0
+12344,Male,Has relevent experience,no_enrollment,Degree,STEM,5,2,26,0
+26136,Male,Has relevent experience,Part time course,Degree,Business Degree,2,2,42,0
+31443,Female,Has relevent experience,no_enrollment,Masters,STEM,15,>4,75,0
+21624,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,2,28,0
+13654,Male,Has relevent experience,no_enrollment,Degree,STEM,5,2,42,0
+30610,Male,Has relevent experience,Part time course,Degree,STEM,5,2,238,0
+27364,Male,Has relevent experience,no_enrollment,Degree,STEM,4,1,21,0
+13439,Male,Has relevent experience,,Degree,STEM,>20,>4,4,0
+11738,Male,Has relevent experience,Full time course,High School,,10,1,78,0
+28301,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,161,0
+11301,Female,No relevent experience,Full time course,Masters,STEM,10,3,98,0
+32035,Male,Has relevent experience,Full time course,Degree,STEM,3,2,38,0
+23051,Male,Has relevent experience,Full time course,High School,,4,1,158,0
+3290,Female,No relevent experience,,High School,,<1,>4,67,0
+7241,,Has relevent experience,Part time course,Degree,STEM,15,2,18,0
+17280,Male,Has relevent experience,no_enrollment,Degree,STEM,13,1,18,1
+22651,Male,Has relevent experience,Full time course,Masters,STEM,13,2,166,0
+14087,Male,Has relevent experience,no_enrollment,Masters,STEM,14,1,204,0
+14134,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,157,0
+10784,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,2,7,0
+15362,Male,No relevent experience,Full time course,High School,,3,1,56,0
+9386,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,99,0
+11203,Male,No relevent experience,Full time course,High School,,1,1,298,0
+27112,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,2,24,1
+29167,Male,Has relevent experience,no_enrollment,Masters,Other,>20,2,96,0
+1772,Male,Has relevent experience,no_enrollment,Degree,STEM,6,4,17,1
+4711,Male,Has relevent experience,no_enrollment,Masters,STEM,14,1,192,0
+23444,,No relevent experience,Full time course,Masters,STEM,8,3,38,1
+1068,Male,Has relevent experience,no_enrollment,Degree,STEM,7,1,4,0
+24278,Male,Has relevent experience,no_enrollment,Degree,STEM,3,0,66,0
+9188,Female,No relevent experience,no_enrollment,Degree,STEM,6,0,70,0
+22935,,No relevent experience,,Degree,,3,,92,0
+29034,Male,Has relevent experience,no_enrollment,Degree,STEM,6,2,163,0
+13178,Male,Has relevent experience,no_enrollment,Masters,STEM,8,3,29,1
+4212,Male,Has relevent experience,no_enrollment,Degree,STEM,8,>4,94,0
+21030,Male,No relevent experience,Full time course,Masters,Humanities,4,4,44,1
+2540,Male,Has relevent experience,no_enrollment,Degree,STEM,11,2,23,0
+8945,,Has relevent experience,no_enrollment,Degree,STEM,6,2,282,1
+21074,Male,Has relevent experience,,Degree,STEM,9,1,50,0
+24219,Female,Has relevent experience,no_enrollment,Degree,STEM,>20,1,8,0
+16279,,Has relevent experience,no_enrollment,Degree,STEM,2,1,71,0
+28717,,Has relevent experience,no_enrollment,Degree,STEM,11,2,12,0
+16696,Female,Has relevent experience,no_enrollment,Degree,STEM,>20,2,9,0
+2450,,Has relevent experience,Full time course,,,3,3,107,1
+32467,Male,Has relevent experience,no_enrollment,Degree,Arts,4,4,45,0
+2603,Male,Has relevent experience,no_enrollment,High School,,3,1,28,0
+16341,Male,No relevent experience,Full time course,Degree,STEM,4,1,158,0
+11005,Male,Has relevent experience,,Degree,STEM,10,0,40,0
+12146,Male,Has relevent experience,no_enrollment,Masters,STEM,6,1,28,0
+14704,Male,Has relevent experience,no_enrollment,Degree,STEM,5,1,42,0
+10090,Male,No relevent experience,Full time course,High School,,4,1,82,0
+25915,Male,Has relevent experience,no_enrollment,Degree,STEM,14,1,40,0
+29607,,Has relevent experience,no_enrollment,Degree,Arts,10,1,43,0
+28644,Male,No relevent experience,Full time course,Masters,Business Degree,18,2,83,0
+20158,Male,Has relevent experience,Full time course,Degree,STEM,7,1,63,0
+24435,,Has relevent experience,Part time course,Degree,STEM,10,1,39,0
+9693,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,1,17,0
+1461,Male,Has relevent experience,Full time course,High School,,18,1,43,0
+6656,,Has relevent experience,no_enrollment,Masters,Arts,6,1,21,1
+2878,Male,Has relevent experience,no_enrollment,Masters,STEM,10,0,53,1
+8636,Male,Has relevent experience,no_enrollment,Degree,STEM,15,3,162,0
+32763,Female,No relevent experience,Full time course,High School,,2,1,32,0
+11571,,No relevent experience,,High School,,5,,55,0
+9724,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,1,54,0
+8222,Male,Has relevent experience,Full time course,Degree,STEM,5,1,31,0
+11840,Male,Has relevent experience,Full time course,Degree,STEM,3,1,9,0
+32255,,Has relevent experience,,Degree,Business Degree,2,1,28,0
+27645,,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,76,1
+19481,Male,No relevent experience,no_enrollment,Masters,STEM,11,1,8,0
+13290,Male,Has relevent experience,,Degree,STEM,6,1,122,1
+19113,,No relevent experience,no_enrollment,Primary School,,5,0,19,0
+6543,Male,Has relevent experience,no_enrollment,Degree,No Major,>20,>4,28,0
+22782,Male,No relevent experience,Full time course,Masters,STEM,7,1,35,0
+28553,Male,No relevent experience,no_enrollment,Masters,Humanities,15,2,8,0
+19409,,Has relevent experience,,Degree,STEM,14,>4,154,1
+1901,Male,Has relevent experience,no_enrollment,Degree,STEM,4,1,40,1
+7870,,Has relevent experience,no_enrollment,Degree,STEM,11,2,19,0
+29348,Male,Has relevent experience,no_enrollment,Degree,STEM,20,2,56,0
+21001,Male,Has relevent experience,no_enrollment,Degree,STEM,7,1,4,0
+10216,Male,Has relevent experience,no_enrollment,Degree,STEM,8,>4,50,0
+10140,Male,No relevent experience,Full time course,High School,,<1,1,80,0
+26998,Male,No relevent experience,Full time course,High School,,2,2,11,0
+7043,Male,No relevent experience,Full time course,Degree,STEM,4,1,44,0
+8134,,Has relevent experience,no_enrollment,Degree,STEM,4,1,140,0
+1896,Male,Has relevent experience,no_enrollment,Masters,STEM,10,4,69,0
+24449,Male,No relevent experience,no_enrollment,Degree,No Major,4,1,74,1
+15778,Male,Has relevent experience,no_enrollment,Degree,STEM,15,1,15,0
+13442,,Has relevent experience,Full time course,Degree,STEM,5,1,166,0
+14714,Male,Has relevent experience,Full time course,Degree,STEM,4,4,109,1
+15730,,Has relevent experience,no_enrollment,Degree,STEM,5,>4,48,0
+27790,Male,No relevent experience,Full time course,High School,,14,2,7,0
+22350,Male,Has relevent experience,no_enrollment,Degree,STEM,6,1,210,0
+7149,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,61,0
+16139,Male,Has relevent experience,no_enrollment,Degree,Arts,5,4,11,0
+23158,Male,Has relevent experience,no_enrollment,Degree,Arts,14,2,94,0
+17057,Male,Has relevent experience,Full time course,Degree,STEM,6,2,4,0
+9349,Male,Has relevent experience,no_enrollment,Phd,STEM,14,3,8,0
+10531,,Has relevent experience,Part time course,Degree,STEM,17,1,184,0
+16615,,Has relevent experience,no_enrollment,Degree,,16,,43,0
+24731,Male,Has relevent experience,no_enrollment,Degree,Arts,9,2,75,0
+6634,Male,Has relevent experience,no_enrollment,Degree,STEM,3,1,78,0
+27729,Male,Has relevent experience,no_enrollment,Degree,STEM,10,1,172,0
+6247,Male,No relevent experience,no_enrollment,Degree,STEM,17,1,18,0
+213,Female,Has relevent experience,no_enrollment,Masters,STEM,3,1,22,1
+28094,Male,Has relevent experience,no_enrollment,Degree,STEM,10,1,50,1
+10415,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,1,56,0
+24593,,Has relevent experience,Part time course,Degree,STEM,6,0,39,0
+23615,Male,No relevent experience,Part time course,High School,,6,1,43,0
+2363,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,1,302,1
+31124,,Has relevent experience,no_enrollment,Degree,STEM,5,1,19,0
+15632,,Has relevent experience,no_enrollment,Degree,STEM,5,1,58,0
+30217,Male,Has relevent experience,no_enrollment,Masters,STEM,15,>4,6,0
+2264,Male,Has relevent experience,no_enrollment,Degree,STEM,11,2,108,0
+7982,,Has relevent experience,Part time course,Degree,STEM,4,1,44,0
+28604,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,39,0
+25009,Male,No relevent experience,no_enrollment,Degree,STEM,2,1,40,0
+12798,Male,Has relevent experience,no_enrollment,High School,,14,4,94,0
+25280,,No relevent experience,no_enrollment,Primary School,,3,0,141,0
+21930,,No relevent experience,Full time course,High School,,8,1,79,0
+26840,Male,No relevent experience,no_enrollment,Degree,Other,7,2,18,0
+23750,,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,64,0
+19041,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,1,22,0
+25152,Male,Has relevent experience,Full time course,Degree,STEM,12,4,91,1
+19435,,Has relevent experience,no_enrollment,Degree,STEM,2,,36,1
+14082,Male,No relevent experience,no_enrollment,Primary School,,3,0,73,0
+22111,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,130,0
+11714,,No relevent experience,Full time course,Degree,STEM,6,0,42,1
+23361,Male,Has relevent experience,Part time course,Degree,STEM,18,>4,7,0
+659,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,1,178,1
+28918,Male,Has relevent experience,no_enrollment,Degree,STEM,19,2,88,0
+12863,Male,No relevent experience,Full time course,Masters,STEM,>20,4,108,1
+1012,Male,Has relevent experience,Part time course,Masters,STEM,16,3,58,0
+7467,Male,No relevent experience,no_enrollment,High School,,3,0,48,0
+905,Male,Has relevent experience,no_enrollment,Degree,STEM,6,2,9,0
+12588,Male,No relevent experience,Full time course,Degree,STEM,3,0,72,1
+8035,Male,Has relevent experience,,High School,,5,3,50,0
+7652,Male,Has relevent experience,no_enrollment,Degree,STEM,10,0,28,1
+1819,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,26,1
+26666,Male,No relevent experience,Part time course,Degree,STEM,6,>4,24,0
+18680,Male,Has relevent experience,no_enrollment,Masters,STEM,19,>4,66,0
+23827,,Has relevent experience,no_enrollment,Degree,STEM,8,3,222,1
+21251,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,1,88,1
+10846,Male,Has relevent experience,no_enrollment,Masters,STEM,14,1,76,0
+4421,Male,Has relevent experience,no_enrollment,Masters,STEM,11,1,28,0
+31495,Male,No relevent experience,no_enrollment,Degree,STEM,5,1,38,0
+2134,Male,Has relevent experience,no_enrollment,Degree,STEM,6,>4,29,0
+29459,,Has relevent experience,no_enrollment,Masters,Other,5,3,23,0
+28263,Male,Has relevent experience,no_enrollment,Degree,STEM,3,1,147,1
+512,Male,Has relevent experience,no_enrollment,Degree,STEM,10,1,3,0
+24097,,Has relevent experience,no_enrollment,Masters,STEM,17,1,14,0
+7454,Male,Has relevent experience,Full time course,Degree,STEM,15,>4,16,0
+27080,,Has relevent experience,no_enrollment,Degree,STEM,16,>4,104,0
+13390,,Has relevent experience,Full time course,Degree,STEM,3,,55,0
+17428,,Has relevent experience,no_enrollment,Degree,STEM,10,1,44,0
+11965,Male,Has relevent experience,no_enrollment,Masters,STEM,5,1,31,0
+24949,Male,Has relevent experience,no_enrollment,Degree,STEM,9,1,1,0
+27315,Male,Has relevent experience,no_enrollment,Degree,STEM,8,1,68,0
+23586,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,37,0
+18548,Male,Has relevent experience,Full time course,Degree,STEM,6,0,98,0
+27020,Male,Has relevent experience,no_enrollment,Masters,Arts,17,>4,43,0
+13881,Male,Has relevent experience,no_enrollment,Degree,STEM,10,1,37,0
+30144,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,3,158,0
+30649,Female,Has relevent experience,Full time course,Degree,STEM,9,1,95,1
+24266,Male,Has relevent experience,no_enrollment,Masters,STEM,11,1,36,0
+7472,Male,No relevent experience,Full time course,Degree,STEM,10,1,178,0
+16397,Male,Has relevent experience,no_enrollment,Degree,STEM,14,1,6,0
+24932,Male,No relevent experience,Full time course,Masters,Humanities,<1,0,112,1
+14510,,Has relevent experience,Full time course,Masters,STEM,>20,>4,50,0
+2766,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,107,0
+7833,Male,Has relevent experience,no_enrollment,Masters,Humanities,13,1,50,0
+15740,,Has relevent experience,no_enrollment,Degree,STEM,3,>4,332,1
+27711,Male,Has relevent experience,no_enrollment,Degree,Business Degree,17,4,21,1
+332,Male,No relevent experience,no_enrollment,Degree,STEM,4,2,46,0
+26410,Male,Has relevent experience,no_enrollment,Degree,STEM,6,>4,112,0
+11242,,No relevent experience,no_enrollment,High School,,3,0,48,0
+6434,,Has relevent experience,no_enrollment,Degree,STEM,10,0,45,0
+11761,Male,Has relevent experience,no_enrollment,Degree,STEM,5,1,39,0
+32204,Male,Has relevent experience,no_enrollment,Degree,STEM,17,1,32,0
+265,Male,Has relevent experience,no_enrollment,Masters,STEM,18,4,36,0
+31216,Male,Has relevent experience,no_enrollment,Masters,STEM,11,1,22,1
+21953,,Has relevent experience,no_enrollment,Masters,STEM,3,1,11,0
+16465,Male,Has relevent experience,no_enrollment,Masters,STEM,19,1,23,0
+15464,Male,No relevent experience,no_enrollment,Degree,STEM,1,0,284,1
+4265,Male,Has relevent experience,no_enrollment,Degree,STEM,11,3,51,1
+31067,Male,Has relevent experience,no_enrollment,Degree,STEM,18,4,22,0
+27573,Male,No relevent experience,Full time course,High School,,3,1,4,0
+14446,Male,Has relevent experience,no_enrollment,Degree,STEM,7,0,55,1
+31097,Male,Has relevent experience,no_enrollment,Degree,STEM,7,1,19,0
+31901,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1,104,0
+29239,Male,No relevent experience,Full time course,High School,,7,1,206,0
+26484,Male,Has relevent experience,no_enrollment,Masters,STEM,5,1,57,0
+6926,Other,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,58,0
+18522,,No relevent experience,no_enrollment,Degree,STEM,16,,100,0
+15605,,Has relevent experience,no_enrollment,Degree,STEM,3,2,5,1
+11387,Male,No relevent experience,no_enrollment,Primary School,,3,0,23,0
+24589,Male,No relevent experience,no_enrollment,Degree,STEM,8,2,18,0
+31688,Male,No relevent experience,Full time course,Masters,Humanities,<1,1,150,0
+22234,,Has relevent experience,no_enrollment,Degree,STEM,19,2,37,0
+30179,,No relevent experience,no_enrollment,Degree,STEM,6,1,5,0
+15463,,No relevent experience,Full time course,Degree,STEM,1,1,162,1
+26063,,No relevent experience,Full time course,Degree,STEM,2,1,9,0
+19674,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,3,0
+11234,Male,Has relevent experience,no_enrollment,Degree,STEM,7,2,144,0
+22492,Male,Has relevent experience,no_enrollment,Degree,STEM,3,>4,70,0
+2042,Male,Has relevent experience,Full time course,,,11,2,125,0
+14389,,Has relevent experience,,Degree,STEM,6,2,25,0
+32,Male,Has relevent experience,no_enrollment,Degree,Business Degree,>20,2,180,1
+16599,Male,Has relevent experience,no_enrollment,Degree,STEM,10,2,61,0
+27211,,No relevent experience,Full time course,Degree,STEM,3,0,12,1
+32203,Female,Has relevent experience,no_enrollment,Degree,STEM,12,2,45,0
+17869,,No relevent experience,Full time course,Degree,STEM,4,3,12,0
+4697,Male,No relevent experience,no_enrollment,,,1,1,96,0
+13361,,Has relevent experience,no_enrollment,Masters,STEM,14,>4,123,0
+6276,Male,No relevent experience,Full time course,High School,,7,2,28,0
+32909,Male,No relevent experience,Full time course,Degree,STEM,4,1,41,1
+22693,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,3,6,0
+4326,,Has relevent experience,Full time course,Degree,STEM,6,2,30,0
+23687,Male,No relevent experience,no_enrollment,Degree,STEM,4,1,45,0
+26464,Male,Has relevent experience,Part time course,Degree,STEM,9,1,11,0
+29699,,Has relevent experience,Part time course,Degree,STEM,6,2,136,0
+9643,,Has relevent experience,no_enrollment,Masters,STEM,14,1,40,0
+18532,Male,Has relevent experience,Full time course,Degree,STEM,3,1,45,1
+9046,Male,Has relevent experience,no_enrollment,Degree,STEM,6,1,104,0
+14447,Male,Has relevent experience,no_enrollment,High School,,16,>4,48,0
+29947,Male,Has relevent experience,no_enrollment,Degree,STEM,10,1,24,0
+3472,Male,Has relevent experience,no_enrollment,High School,,>20,>4,54,1
+19514,,Has relevent experience,no_enrollment,Masters,STEM,3,2,110,1
+28213,Male,No relevent experience,Full time course,Degree,STEM,2,1,50,1
+32588,Male,Has relevent experience,no_enrollment,Degree,STEM,10,1,216,1
+12746,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,99,0
+7003,,Has relevent experience,no_enrollment,Degree,STEM,10,1,78,1
+325,Male,No relevent experience,Full time course,Degree,STEM,10,0,29,0
+25874,Male,No relevent experience,Full time course,Degree,STEM,16,2,13,0
+31085,Male,Has relevent experience,no_enrollment,Degree,Humanities,>20,2,18,0
+25221,,Has relevent experience,no_enrollment,Degree,STEM,8,0,110,0
+17266,Male,Has relevent experience,Part time course,Degree,STEM,9,1,114,0
+9547,,Has relevent experience,no_enrollment,Masters,STEM,14,>4,65,1
+23522,Male,Has relevent experience,no_enrollment,Masters,STEM,8,4,130,0
+32628,Male,Has relevent experience,Full time course,Degree,STEM,7,1,87,1
+9632,Female,No relevent experience,no_enrollment,Phd,STEM,8,1,3,0
+27129,Male,No relevent experience,Full time course,Degree,STEM,4,2,84,1
+27359,Male,Has relevent experience,Part time course,Masters,STEM,9,3,10,1
+25765,Male,No relevent experience,no_enrollment,Degree,Humanities,17,4,34,1
+1128,,Has relevent experience,no_enrollment,Degree,STEM,>20,4,12,1
+26707,Male,Has relevent experience,Full time course,Degree,STEM,6,1,54,0
+19573,Male,Has relevent experience,Full time course,Degree,STEM,11,2,20,1
+9769,Female,Has relevent experience,no_enrollment,Phd,STEM,5,2,82,0
+23695,Male,No relevent experience,Full time course,Degree,STEM,3,0,22,0
+14825,Female,Has relevent experience,no_enrollment,Degree,STEM,20,2,6,0
+32952,Male,No relevent experience,no_enrollment,Degree,STEM,5,2,36,1
+14251,,Has relevent experience,no_enrollment,Degree,STEM,7,2,21,0
+12547,Male,Has relevent experience,no_enrollment,High School,,18,2,17,0
+25929,Male,Has relevent experience,no_enrollment,Degree,STEM,6,1,102,0
+14509,Male,Has relevent experience,Part time course,Degree,STEM,5,>4,78,0
+12010,,No relevent experience,no_enrollment,Degree,STEM,18,>4,18,1
+10388,Female,Has relevent experience,no_enrollment,Degree,STEM,2,1,40,0
+11784,Male,Has relevent experience,no_enrollment,Degree,STEM,9,1,42,1
+20581,Male,Has relevent experience,Full time course,Degree,STEM,1,1,48,1
+8120,,Has relevent experience,no_enrollment,Degree,STEM,4,2,160,0
+10458,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,3,4,0
+8258,Male,No relevent experience,Part time course,High School,,2,0,180,0
+32782,Male,Has relevent experience,no_enrollment,Masters,STEM,17,1,26,1
+19515,Male,No relevent experience,Full time course,Degree,STEM,5,0,6,1
+15642,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,124,0
+31424,,No relevent experience,Full time course,High School,,10,1,82,1
+12329,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1,24,0
+5121,,No relevent experience,Full time course,Masters,STEM,5,1,196,0
+16750,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,72,0
+26173,Male,No relevent experience,no_enrollment,High School,,<1,0,51,0
+19823,,Has relevent experience,no_enrollment,Degree,STEM,5,1,37,0
+11967,,No relevent experience,Full time course,High School,,6,1,74,0
+24269,Male,Has relevent experience,no_enrollment,High School,,19,2,7,1
+17084,Male,Has relevent experience,no_enrollment,High School,,6,2,32,0
+27371,Female,No relevent experience,no_enrollment,Degree,STEM,10,2,87,1
+2595,Male,Has relevent experience,Full time course,High School,,3,1,16,0
+25233,,Has relevent experience,no_enrollment,Masters,STEM,<1,0,118,1
+13805,Male,Has relevent experience,Part time course,Degree,STEM,4,1,236,0
+17663,Male,Has relevent experience,Full time course,Degree,STEM,4,1,65,0
+16590,Male,Has relevent experience,no_enrollment,Degree,STEM,3,1,290,1
+11808,Male,No relevent experience,no_enrollment,Degree,STEM,5,3,22,0
+6205,Male,Has relevent experience,no_enrollment,Degree,STEM,13,>4,8,0
+3176,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,7,0
+2959,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,1,76,0
+32754,Male,Has relevent experience,Full time course,Degree,STEM,5,4,160,1
+29173,Male,Has relevent experience,Part time course,Degree,STEM,4,1,92,0
+16055,Male,Has relevent experience,no_enrollment,Degree,STEM,10,1,127,0
+33092,Male,No relevent experience,Full time course,Degree,STEM,6,0,84,0
+31490,Male,Has relevent experience,no_enrollment,Degree,STEM,6,1,101,0
+16012,Male,Has relevent experience,no_enrollment,Degree,STEM,18,1,28,0
+30762,Male,Has relevent experience,Full time course,Masters,STEM,1,1,182,1
+30322,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,29,0
+1144,Male,Has relevent experience,no_enrollment,Degree,STEM,11,1,15,1
+4342,Male,No relevent experience,no_enrollment,Degree,Business Degree,2,1,202,0
+12950,Male,Has relevent experience,no_enrollment,Degree,STEM,7,1,11,0
+15792,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,92,0
+30274,,Has relevent experience,Part time course,Degree,Other,1,0,156,0
+23600,Male,Has relevent experience,no_enrollment,Degree,STEM,18,1,56,0
+30890,Male,No relevent experience,,High School,,9,0,46,0
+23017,Male,Has relevent experience,no_enrollment,Degree,STEM,5,2,70,1
+20749,Male,Has relevent experience,no_enrollment,Degree,STEM,7,2,68,0
+27087,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1,42,0
+29362,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,4,90,0
+19228,Male,Has relevent experience,no_enrollment,Degree,Humanities,5,4,25,0
+13778,,Has relevent experience,Full time course,High School,,7,0,117,0
+204,Male,Has relevent experience,Full time course,High School,,3,1,23,0
+32171,Male,Has relevent experience,no_enrollment,Masters,STEM,18,2,47,0
+8535,,No relevent experience,no_enrollment,High School,,6,0,31,1
+24323,Male,Has relevent experience,no_enrollment,Degree,STEM,3,1,61,1
+23612,Male,Has relevent experience,Full time course,Degree,STEM,5,1,53,0
+17552,,Has relevent experience,Full time course,,,<1,,18,0
+27162,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,65,0
+11525,,No relevent experience,Part time course,Degree,STEM,<1,0,20,1
+16025,Male,No relevent experience,Full time course,Degree,STEM,10,0,87,0
+22002,Male,Has relevent experience,no_enrollment,Degree,STEM,14,2,110,0
+9088,Female,No relevent experience,Full time course,Degree,STEM,3,0,144,1
+32738,Male,No relevent experience,Full time course,Degree,STEM,<1,0,114,0
+22953,Male,Has relevent experience,no_enrollment,Degree,Humanities,10,>4,150,0
+3246,Male,Has relevent experience,Full time course,,,14,1,43,1
+3343,Male,No relevent experience,no_enrollment,Degree,STEM,>20,1,76,0
+28152,Male,Has relevent experience,no_enrollment,Masters,Humanities,>20,>4,278,0
+29591,,Has relevent experience,Full time course,Degree,STEM,<1,>4,6,0
+24159,,No relevent experience,Full time course,Degree,STEM,7,1,157,0
+16442,,Has relevent experience,no_enrollment,Masters,STEM,7,1,102,0
+13457,,No relevent experience,no_enrollment,Masters,STEM,14,>4,74,0
+16672,,Has relevent experience,no_enrollment,Masters,STEM,14,,47,0
+30780,Male,No relevent experience,no_enrollment,Degree,STEM,<1,1,17,1
+19370,,No relevent experience,Full time course,High School,,2,0,260,0
+12075,Male,Has relevent experience,no_enrollment,Degree,STEM,9,>4,78,0
+17948,Male,Has relevent experience,Part time course,Degree,STEM,7,3,28,0
+12455,,No relevent experience,Part time course,Degree,STEM,2,0,36,0
+8224,Male,Has relevent experience,no_enrollment,Masters,STEM,3,0,39,0
+6888,Male,No relevent experience,no_enrollment,High School,,5,2,106,0
+30152,Male,Has relevent experience,Part time course,Degree,No Major,7,>4,22,0
+19526,Male,Has relevent experience,no_enrollment,,,10,2,12,0
+17772,Male,Has relevent experience,no_enrollment,Degree,STEM,5,1,21,1
+13724,Male,No relevent experience,Full time course,Masters,STEM,9,2,2,0
+32951,,No relevent experience,Full time course,Degree,STEM,1,1,6,1
+24075,Male,Has relevent experience,Full time course,Degree,STEM,6,3,56,1
+15716,,Has relevent experience,no_enrollment,Masters,Other,<1,1,40,0
+23355,Male,No relevent experience,no_enrollment,Primary School,,<1,0,72,0
+19212,Male,Has relevent experience,no_enrollment,Degree,STEM,10,1,118,0
+7941,,Has relevent experience,Part time course,Masters,STEM,16,>4,206,0
+24692,Male,Has relevent experience,Full time course,Degree,STEM,5,1,48,0
+15308,Male,No relevent experience,,,,5,0,214,0
+2407,Male,Has relevent experience,no_enrollment,Degree,STEM,10,1,20,0
+9452,Male,Has relevent experience,no_enrollment,Degree,STEM,17,2,28,0
+26459,,Has relevent experience,no_enrollment,Degree,STEM,2,,35,0
+5451,,Has relevent experience,Part time course,Degree,STEM,6,1,160,0
+20442,Female,Has relevent experience,no_enrollment,Masters,STEM,7,1,20,0
+25381,Male,Has relevent experience,no_enrollment,Degree,STEM,9,>4,98,0
+5657,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,16,0
+12959,,No relevent experience,Full time course,Degree,STEM,<1,0,218,1
+5233,Female,Has relevent experience,Full time course,Masters,STEM,9,4,101,1
+28667,Male,No relevent experience,no_enrollment,Degree,Arts,1,1,55,0
+12377,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,66,0
+9981,Male,No relevent experience,Full time course,High School,,1,0,8,0
+11575,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,12,0
+4812,Male,Has relevent experience,no_enrollment,Degree,STEM,17,>4,128,0
+13115,Male,Has relevent experience,no_enrollment,Masters,STEM,8,1,14,0
+5761,Male,Has relevent experience,no_enrollment,Masters,STEM,6,1,109,0
+4640,Male,Has relevent experience,no_enrollment,High School,,15,3,58,0
+11220,,Has relevent experience,no_enrollment,Degree,STEM,13,1,80,0
+2702,Male,No relevent experience,no_enrollment,High School,,6,1,34,0
+26300,Male,Has relevent experience,Part time course,Degree,STEM,5,2,112,0
+11253,,Has relevent experience,no_enrollment,Degree,STEM,5,1,156,0
+32603,Male,Has relevent experience,Full time course,,,>20,1,39,0
+30782,Male,No relevent experience,Full time course,Degree,Business Degree,>20,>4,10,0
+16945,Male,No relevent experience,Full time course,Degree,STEM,4,1,9,0
+23622,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,4,25,1
+8295,Male,Has relevent experience,,Degree,STEM,9,2,114,0
+10187,Male,Has relevent experience,no_enrollment,Degree,STEM,4,1,72,0
+9522,,No relevent experience,Full time course,Masters,STEM,2,1,145,1
+13501,Other,Has relevent experience,no_enrollment,Degree,STEM,7,>4,11,0
+28491,Male,Has relevent experience,no_enrollment,High School,,10,4,36,0
+2544,Other,No relevent experience,no_enrollment,Degree,Business Degree,18,>4,48,0
+10869,,Has relevent experience,no_enrollment,High School,,3,2,64,0
+10715,Male,Has relevent experience,no_enrollment,High School,,2,1,56,0
+121,Male,Has relevent experience,no_enrollment,Degree,STEM,9,1,6,0
+10750,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,26,1
+9191,,No relevent experience,Full time course,Masters,STEM,12,1,152,0
+8475,Male,Has relevent experience,no_enrollment,Degree,STEM,3,0,66,0
+13258,Male,Has relevent experience,no_enrollment,Degree,STEM,11,>4,3,0
+16547,,Has relevent experience,no_enrollment,Masters,STEM,5,0,22,0
+10349,Male,Has relevent experience,Full time course,Masters,STEM,5,0,157,0
+23925,Male,No relevent experience,no_enrollment,High School,,1,0,200,0
+22559,,Has relevent experience,no_enrollment,Degree,STEM,6,2,144,1
+33276,Female,Has relevent experience,no_enrollment,Masters,Humanities,>20,4,15,0
+22546,Male,Has relevent experience,no_enrollment,Degree,STEM,<1,1,31,0
+13672,,No relevent experience,Full time course,Masters,STEM,9,3,72,0
+11774,Male,Has relevent experience,no_enrollment,Masters,STEM,8,>4,37,0
+4720,,Has relevent experience,no_enrollment,High School,,6,1,105,0
+31145,Male,No relevent experience,no_enrollment,Primary School,,8,0,22,0
+3529,,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,160,0
+25225,Male,Has relevent experience,no_enrollment,Degree,STEM,5,2,6,0
+19004,Male,No relevent experience,Full time course,Degree,STEM,2,1,25,1
+6637,,No relevent experience,Part time course,Masters,Business Degree,5,>4,9,0
+32637,Male,No relevent experience,Full time course,Degree,STEM,2,0,98,1
+26626,,Has relevent experience,Part time course,Degree,STEM,8,1,17,0
+20763,Male,Has relevent experience,no_enrollment,Degree,STEM,8,>4,24,0
+29923,Female,Has relevent experience,no_enrollment,Degree,STEM,13,1,109,1
+18444,,No relevent experience,Full time course,High School,,4,,4,0
+28835,Male,Has relevent experience,no_enrollment,Degree,STEM,3,1,44,1
+16267,,No relevent experience,no_enrollment,High School,,3,0,4,0
+2339,Male,Has relevent experience,no_enrollment,High School,,17,1,43,0
+8932,Male,Has relevent experience,no_enrollment,Degree,STEM,8,2,10,1
+16459,,Has relevent experience,no_enrollment,Degree,STEM,14,>4,66,0
+3442,Male,Has relevent experience,no_enrollment,Degree,STEM,13,1,53,0
+490,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,52,0
+17061,Male,Has relevent experience,no_enrollment,Degree,STEM,4,2,36,0
+10557,Female,Has relevent experience,Full time course,Masters,STEM,9,0,218,1
+25162,,Has relevent experience,no_enrollment,Masters,STEM,12,1,135,0
+8534,Male,Has relevent experience,no_enrollment,Degree,STEM,6,3,89,0
+7301,Male,Has relevent experience,Full time course,Masters,STEM,10,2,38,0
+6904,Other,Has relevent experience,Full time course,Degree,STEM,1,1,39,1
+5332,Male,Has relevent experience,no_enrollment,Masters,STEM,12,2,18,0
+29917,Male,No relevent experience,Full time course,Degree,STEM,4,1,14,1
+23634,,Has relevent experience,Full time course,High School,,15,>4,41,0
+21009,Male,Has relevent experience,no_enrollment,Degree,STEM,11,2,28,0
+3475,Male,Has relevent experience,no_enrollment,,,>20,1,130,0
+19787,,Has relevent experience,,Degree,STEM,4,3,11,0
+6679,Male,Has relevent experience,no_enrollment,Degree,STEM,10,1,35,1
+27169,,Has relevent experience,Full time course,Degree,STEM,5,,145,0
+3588,,Has relevent experience,no_enrollment,,,18,,47,1
+17843,,Has relevent experience,no_enrollment,Masters,STEM,9,1,2,0
+1565,Male,No relevent experience,Full time course,High School,,6,0,56,0
+12342,,No relevent experience,Full time course,,,<1,3,80,0
+14910,Male,Has relevent experience,Part time course,Degree,STEM,14,>4,98,0
+29638,,Has relevent experience,Full time course,Masters,STEM,8,2,24,0
+1071,,No relevent experience,Full time course,High School,,3,1,3,0
+10224,,Has relevent experience,no_enrollment,Masters,STEM,9,1,23,0
+28002,Male,Has relevent experience,no_enrollment,Degree,Humanities,3,>4,68,1
+17009,,Has relevent experience,no_enrollment,Masters,STEM,>20,3,43,0
+13035,Male,Has relevent experience,no_enrollment,Masters,STEM,8,1,34,0
+2382,Male,Has relevent experience,no_enrollment,Masters,STEM,14,1,48,0
+13580,Male,Has relevent experience,no_enrollment,Degree,STEM,6,>4,107,0
+17232,Male,Has relevent experience,no_enrollment,Degree,STEM,11,0,3,1
+23909,Male,Has relevent experience,no_enrollment,Degree,STEM,12,>4,7,0
+10377,Male,Has relevent experience,Full time course,Masters,STEM,18,1,170,1
+22425,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1,23,0
+4306,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,1,50,0
+141,Male,Has relevent experience,no_enrollment,Masters,STEM,8,2,10,0
+29403,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,73,0
+30520,Male,Has relevent experience,no_enrollment,Degree,STEM,6,2,130,0
+26686,Male,Has relevent experience,no_enrollment,Degree,STEM,7,1,77,0
+33206,Female,Has relevent experience,no_enrollment,Degree,STEM,>20,3,55,0
+24361,Male,Has relevent experience,no_enrollment,Degree,STEM,10,>4,109,0
+8045,,Has relevent experience,Full time course,Masters,STEM,3,1,129,1
+12920,Male,Has relevent experience,no_enrollment,Masters,Other,>20,>4,70,0
+18465,Male,Has relevent experience,no_enrollment,Masters,STEM,8,1,133,0
+18510,,Has relevent experience,no_enrollment,Masters,STEM,10,1,135,1
+9729,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,4,18,0
+31258,Male,No relevent experience,no_enrollment,Degree,No Major,7,4,5,1
+7211,Male,No relevent experience,no_enrollment,High School,,<1,0,68,0
+8162,Male,Has relevent experience,no_enrollment,Masters,STEM,8,2,111,0
+6132,Male,Has relevent experience,no_enrollment,Degree,No Major,17,1,32,0
+4097,Female,Has relevent experience,no_enrollment,Degree,STEM,9,1,41,0
+24836,Male,No relevent experience,no_enrollment,,,5,0,62,0
+33326,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,21,0
+31294,Male,Has relevent experience,no_enrollment,Masters,STEM,18,1,9,0
+19341,,No relevent experience,Full time course,Degree,STEM,3,,7,1
+17601,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,77,0
+10366,,Has relevent experience,no_enrollment,Degree,STEM,17,>4,23,0
+29587,,Has relevent experience,no_enrollment,High School,,9,2,3,0
+31614,Male,Has relevent experience,no_enrollment,Degree,STEM,5,1,102,0
+3368,,Has relevent experience,no_enrollment,Degree,STEM,16,1,107,0
+1510,Male,No relevent experience,no_enrollment,Degree,No Major,>20,>4,4,0
+12680,Male,Has relevent experience,no_enrollment,Masters,STEM,8,3,5,0
+9734,,No relevent experience,Full time course,High School,,<1,0,20,0
+32236,,No relevent experience,Full time course,High School,,6,1,16,1
+32008,Male,Has relevent experience,no_enrollment,Masters,STEM,3,2,44,0
+32639,Male,No relevent experience,no_enrollment,Primary School,,1,0,22,0
+27632,,Has relevent experience,no_enrollment,Degree,No Major,10,1,52,0
+20715,,No relevent experience,Full time course,Degree,No Major,2,1,68,0
+3385,Male,Has relevent experience,no_enrollment,Degree,STEM,3,2,40,1
+31812,Male,Has relevent experience,Full time course,Degree,STEM,3,1,84,1
+22481,Male,Has relevent experience,no_enrollment,High School,,20,1,167,0
+5946,Male,Has relevent experience,no_enrollment,Degree,STEM,13,1,70,0
+3952,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,0,29,0
+28234,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,27,0
+30971,Male,Has relevent experience,no_enrollment,Masters,STEM,11,1,62,1
+1688,Male,No relevent experience,no_enrollment,Masters,STEM,9,0,53,0
+1105,Female,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,34,0
+18204,Male,Has relevent experience,Part time course,Degree,STEM,<1,1,54,1
+7405,Male,No relevent experience,Full time course,Degree,STEM,5,1,23,0
+28408,,Has relevent experience,no_enrollment,Degree,STEM,3,1,40,0
+20719,,No relevent experience,Full time course,Degree,STEM,9,,48,0
+14595,,Has relevent experience,Full time course,Degree,STEM,5,1,74,1
+13438,Male,Has relevent experience,no_enrollment,Degree,STEM,11,0,166,1
+31905,Female,No relevent experience,Full time course,Degree,STEM,6,1,57,0
+22610,Male,No relevent experience,no_enrollment,Degree,STEM,>20,0,51,1
+27318,Male,Has relevent experience,Part time course,Degree,STEM,7,1,57,0
+29684,,Has relevent experience,no_enrollment,Degree,STEM,2,1,30,0
+9329,Male,Has relevent experience,no_enrollment,High School,,11,>4,44,0
+14661,,Has relevent experience,Full time course,Masters,STEM,5,0,51,1
+7783,Male,Has relevent experience,no_enrollment,Degree,STEM,7,2,240,1
+7536,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,0,20,0
+11415,Male,Has relevent experience,no_enrollment,Degree,STEM,2,2,22,1
+11350,Male,Has relevent experience,Part time course,Degree,STEM,6,3,18,1
+20762,Female,Has relevent experience,no_enrollment,Degree,STEM,4,1,2,0
+3652,Male,Has relevent experience,no_enrollment,Masters,Arts,3,1,46,1
+29420,,No relevent experience,Full time course,Degree,STEM,5,0,98,1
+23002,Male,No relevent experience,Full time course,Degree,STEM,10,1,58,1
+24667,,Has relevent experience,no_enrollment,Degree,STEM,7,1,29,0
+19267,Male,Has relevent experience,no_enrollment,Degree,Other,15,1,116,1
+566,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,27,0
+13934,Male,Has relevent experience,no_enrollment,Degree,STEM,11,1,46,0
+12226,Male,Has relevent experience,no_enrollment,Degree,STEM,16,>4,99,0
+30319,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,2,38,0
+8366,Male,Has relevent experience,no_enrollment,Masters,STEM,16,1,67,0
+8091,Male,Has relevent experience,no_enrollment,Masters,STEM,6,3,55,0
+31417,,No relevent experience,Full time course,High School,,4,0,76,0
+10552,Female,Has relevent experience,Full time course,Masters,STEM,7,1,50,1
+22362,Male,No relevent experience,Full time course,Primary School,,7,0,18,0
+11779,Male,No relevent experience,no_enrollment,Masters,STEM,11,>4,51,0
+28993,Male,Has relevent experience,Full time course,Degree,Humanities,4,3,32,1
+1196,Male,Has relevent experience,no_enrollment,Degree,Business Degree,>20,1,77,1
+31637,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,3,0
+2423,Female,Has relevent experience,no_enrollment,Degree,STEM,10,1,80,1
+10003,Female,No relevent experience,no_enrollment,Masters,Humanities,3,2,21,0
+31810,Male,Has relevent experience,no_enrollment,Degree,Humanities,>20,1,79,0
+20541,,Has relevent experience,no_enrollment,Degree,STEM,2,1,37,1
+2676,Male,Has relevent experience,Full time course,Masters,STEM,8,1,28,0
+4268,Male,Has relevent experience,no_enrollment,Degree,Other,5,1,65,0
+25554,Male,Has relevent experience,no_enrollment,Degree,STEM,3,3,55,0
+22010,Male,Has relevent experience,no_enrollment,Degree,STEM,12,1,165,0
+6726,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,1,30,0
+14436,Male,Has relevent experience,no_enrollment,Masters,STEM,7,>4,139,0
+29625,Male,No relevent experience,no_enrollment,Masters,STEM,>20,2,15,0
+15418,Male,No relevent experience,no_enrollment,Masters,STEM,7,1,15,0
+10754,,No relevent experience,Full time course,Degree,STEM,5,1,41,0
+21977,Male,No relevent experience,no_enrollment,Degree,STEM,19,1,17,1
+864,Male,Has relevent experience,Part time course,Degree,STEM,12,1,26,0
+17413,,No relevent experience,no_enrollment,Degree,STEM,4,0,28,0
+8868,Male,Has relevent experience,no_enrollment,Degree,STEM,18,>4,9,0
+5893,Male,Has relevent experience,Part time course,Degree,STEM,7,1,46,0
+23273,Male,No relevent experience,no_enrollment,Primary School,,4,1,108,0
+3284,Male,Has relevent experience,no_enrollment,Degree,STEM,16,>4,64,0
+21684,Female,Has relevent experience,no_enrollment,Degree,STEM,9,>4,6,0
+21402,,Has relevent experience,no_enrollment,Degree,STEM,7,1,42,1
+28082,Male,No relevent experience,no_enrollment,Degree,STEM,10,3,129,0
+1786,Female,Has relevent experience,no_enrollment,Degree,STEM,>20,1,94,0
+9123,Male,No relevent experience,no_enrollment,Degree,No Major,2,0,50,0
+29360,Male,No relevent experience,no_enrollment,High School,,4,0,44,1
+2692,Male,Has relevent experience,no_enrollment,Masters,STEM,6,1,122,0
+7474,Male,No relevent experience,Full time course,High School,,10,0,27,0
+19458,Male,No relevent experience,no_enrollment,Masters,STEM,6,1,80,1
+17623,,Has relevent experience,no_enrollment,Degree,STEM,5,,7,0
+24447,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,182,0
+847,Male,Has relevent experience,no_enrollment,Degree,Business Degree,16,1,20,0
+26918,Male,No relevent experience,Full time course,Phd,STEM,5,1,13,1
+7323,Male,Has relevent experience,no_enrollment,Degree,STEM,6,1,50,1
+22400,Male,Has relevent experience,no_enrollment,Degree,STEM,2,1,48,1
+5881,Male,Has relevent experience,no_enrollment,Degree,STEM,5,0,306,0
+10765,,No relevent experience,no_enrollment,Masters,Humanities,5,4,18,0
+2144,Male,Has relevent experience,no_enrollment,Masters,STEM,13,4,2,0
+16826,Male,Has relevent experience,no_enrollment,Degree,STEM,15,4,20,0
+30329,,No relevent experience,no_enrollment,Masters,STEM,>20,1,288,1
+106,Male,No relevent experience,Part time course,Degree,STEM,12,4,81,0
+17761,Female,Has relevent experience,no_enrollment,Degree,STEM,5,1,16,0
+14246,Male,No relevent experience,Full time course,Degree,STEM,2,1,13,0
+27966,,Has relevent experience,no_enrollment,Degree,STEM,4,1,36,1
+27088,,No relevent experience,no_enrollment,Degree,STEM,4,4,32,0
+5883,,Has relevent experience,no_enrollment,Degree,STEM,>20,,92,0
+16064,Male,Has relevent experience,no_enrollment,Degree,STEM,8,1,220,0
+11279,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1,23,0
+24122,Male,Has relevent experience,no_enrollment,Degree,STEM,18,>4,284,0
+1998,Male,Has relevent experience,no_enrollment,Degree,STEM,15,1,21,0
+30561,Male,Has relevent experience,no_enrollment,Degree,STEM,4,1,62,1
+9629,Male,Has relevent experience,no_enrollment,Masters,STEM,14,4,166,1
+14086,Male,Has relevent experience,no_enrollment,Degree,STEM,16,1,58,0
+28613,Male,Has relevent experience,no_enrollment,High School,,15,>4,53,0
+16853,Male,No relevent experience,no_enrollment,Degree,Humanities,>20,>4,34,0
+31542,,Has relevent experience,no_enrollment,Masters,STEM,18,>4,58,1
+7236,Male,Has relevent experience,no_enrollment,Masters,STEM,18,>4,15,0
+1047,Male,Has relevent experience,no_enrollment,High School,,19,1,72,0
+11995,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,3,12,0
+18047,,Has relevent experience,Part time course,Masters,STEM,5,1,21,0
+12890,,Has relevent experience,no_enrollment,Masters,STEM,8,1,165,0
+15493,,Has relevent experience,Part time course,Degree,STEM,3,1,50,1
+23726,,Has relevent experience,no_enrollment,Degree,STEM,14,2,18,0
+8878,Male,No relevent experience,no_enrollment,Degree,STEM,2,2,113,1
+31102,Male,No relevent experience,no_enrollment,Primary School,,5,0,20,0
+781,Male,Has relevent experience,Part time course,Degree,STEM,11,2,26,0
+17395,Male,Has relevent experience,no_enrollment,Degree,STEM,1,1,26,1
+17185,Male,Has relevent experience,no_enrollment,Degree,Humanities,3,3,5,1
+20309,,Has relevent experience,no_enrollment,Degree,STEM,10,1,44,0
+31916,Male,Has relevent experience,no_enrollment,Masters,STEM,5,2,17,1
+11181,,No relevent experience,Full time course,Degree,STEM,4,1,87,0
+21259,Male,No relevent experience,Full time course,Degree,STEM,1,1,39,1
+14677,Male,Has relevent experience,no_enrollment,Degree,STEM,14,2,107,0
+951,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,13,0
+1085,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,1,166,0
+22396,Male,Has relevent experience,Part time course,Masters,STEM,7,1,56,0
+21520,,Has relevent experience,Full time course,Degree,STEM,4,1,9,1
+9308,Male,Has relevent experience,no_enrollment,Masters,STEM,11,1,6,0
+7961,,Has relevent experience,Full time course,Degree,STEM,5,1,86,0
+21287,Male,Has relevent experience,Part time course,Degree,STEM,3,1,164,0
+4996,,No relevent experience,Full time course,Degree,STEM,9,0,50,1
+21765,,Has relevent experience,,Masters,Other,10,1,58,0
+12681,Male,Has relevent experience,Full time course,High School,,1,1,86,0
+20276,Male,No relevent experience,no_enrollment,Degree,STEM,10,>4,308,0
+26706,Male,No relevent experience,Part time course,Masters,STEM,8,2,121,0
+25021,,No relevent experience,Full time course,High School,,10,1,16,0
+22205,Male,Has relevent experience,no_enrollment,Degree,STEM,7,2,160,0
+27557,Male,Has relevent experience,no_enrollment,Degree,STEM,6,1,12,1
+24789,Male,Has relevent experience,Full time course,Degree,STEM,>20,1,147,0
+8196,Male,Has relevent experience,Full time course,Degree,STEM,>20,1,50,1
+18614,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1,29,0
+29331,Male,Has relevent experience,no_enrollment,High School,,>20,1,246,0
+29265,Male,Has relevent experience,Full time course,Degree,STEM,6,1,37,0
+18206,,No relevent experience,Full time course,Degree,STEM,2,0,324,0
+7350,Male,No relevent experience,Full time course,Degree,STEM,4,1,83,0
+20882,,Has relevent experience,no_enrollment,Masters,STEM,13,1,202,0
+12799,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,33,0
+4547,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,>4,47,0
+7450,Male,Has relevent experience,no_enrollment,Masters,STEM,16,2,24,1
+5727,Male,Has relevent experience,no_enrollment,Degree,Business Degree,>20,>4,68,0
+13703,Male,Has relevent experience,no_enrollment,Degree,STEM,14,4,166,0
+16748,Male,Has relevent experience,no_enrollment,Degree,STEM,11,1,77,0
+31618,Male,No relevent experience,no_enrollment,Primary School,,6,1,94,1
+31845,Male,Has relevent experience,no_enrollment,Degree,STEM,8,0,18,1
+6499,,Has relevent experience,no_enrollment,Degree,STEM,4,2,80,0
+4383,,No relevent experience,no_enrollment,Degree,STEM,>20,>4,46,0
+28093,Female,No relevent experience,Full time course,Masters,STEM,12,2,155,0
+5204,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,>4,47,0
+1017,Male,Has relevent experience,no_enrollment,Degree,STEM,5,4,156,1
+16444,,Has relevent experience,no_enrollment,High School,,3,1,27,1
+29190,Male,No relevent experience,,,,6,0,6,0
+29948,,Has relevent experience,Part time course,Degree,STEM,6,0,58,1
+23129,,No relevent experience,no_enrollment,Degree,STEM,8,,104,0
+30986,Male,Has relevent experience,no_enrollment,Masters,STEM,15,3,57,0
+24928,Male,Has relevent experience,Full time course,Masters,STEM,10,1,110,1
+19968,Male,No relevent experience,no_enrollment,High School,,5,0,51,1
+16217,Male,Has relevent experience,no_enrollment,Masters,Humanities,>20,1,17,0
+4881,Male,Has relevent experience,no_enrollment,Degree,STEM,8,1,86,0
+32739,,Has relevent experience,no_enrollment,Masters,STEM,8,2,36,0
+11243,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,2,20,0
+22346,Male,Has relevent experience,no_enrollment,Degree,STEM,9,1,66,0
+30567,Male,Has relevent experience,no_enrollment,Masters,No Major,>20,>4,8,0
+5443,Male,Has relevent experience,no_enrollment,Masters,STEM,9,1,96,0
+31308,Male,Has relevent experience,no_enrollment,Degree,STEM,6,1,32,0
+19899,Male,No relevent experience,Full time course,High School,,10,1,109,1
+11474,Male,Has relevent experience,no_enrollment,Degree,STEM,14,>4,19,0
+29846,,No relevent experience,,Primary School,,2,0,167,0
+23689,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,0,16,0
+6103,,Has relevent experience,no_enrollment,Masters,STEM,4,1,18,0
+30624,Male,No relevent experience,Full time course,High School,,4,0,10,0
+18899,Male,Has relevent experience,no_enrollment,Degree,STEM,16,0,232,0
+19862,Female,Has relevent experience,no_enrollment,Degree,STEM,1,1,125,0
+28884,Male,Has relevent experience,Part time course,Degree,STEM,8,4,29,0
+16421,Female,Has relevent experience,no_enrollment,Masters,Humanities,2,1,33,1
+24694,Male,Has relevent experience,no_enrollment,Degree,STEM,15,4,158,0
+17331,,Has relevent experience,no_enrollment,Masters,STEM,>20,1,121,0
+19994,Male,No relevent experience,no_enrollment,Degree,STEM,3,1,9,0
+2140,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,1,9,0
+10776,,Has relevent experience,no_enrollment,High School,,14,1,78,0
+15619,,Has relevent experience,no_enrollment,Masters,STEM,7,1,57,0
+29853,Male,Has relevent experience,no_enrollment,Degree,STEM,11,1,21,0
+19777,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,>4,43,0
+1713,,Has relevent experience,no_enrollment,Degree,STEM,9,3,92,0
+27726,Male,Has relevent experience,no_enrollment,High School,,17,1,50,0
+5080,Male,Has relevent experience,no_enrollment,Degree,STEM,8,4,28,0
+13052,Male,No relevent experience,no_enrollment,Degree,STEM,16,>4,192,1
+954,Male,Has relevent experience,no_enrollment,Masters,STEM,15,>4,18,0
+24271,Male,Has relevent experience,,Masters,STEM,2,1,174,1
+33132,Male,Has relevent experience,no_enrollment,Degree,STEM,9,2,133,1
+22681,Male,Has relevent experience,Part time course,Degree,STEM,8,1,234,0
+21687,,Has relevent experience,no_enrollment,Degree,STEM,10,>4,6,1
+7866,Female,Has relevent experience,no_enrollment,Masters,STEM,10,4,180,0
+33227,,No relevent experience,Full time course,Masters,STEM,<1,1,15,0
+15172,Male,Has relevent experience,no_enrollment,Degree,STEM,11,>4,45,0
+30547,,No relevent experience,Full time course,Degree,STEM,3,1,34,1
+6147,Male,Has relevent experience,Part time course,Degree,STEM,15,1,51,0
+374,Male,Has relevent experience,no_enrollment,Degree,STEM,9,2,27,0
+4141,,Has relevent experience,no_enrollment,Degree,STEM,4,1,20,0
+31736,Male,Has relevent experience,no_enrollment,Degree,STEM,7,>4,97,0
+15368,,Has relevent experience,Part time course,Masters,STEM,>20,>4,33,0
+13898,,Has relevent experience,Full time course,Degree,STEM,7,1,3,1
+16864,Male,No relevent experience,Part time course,High School,,6,>4,63,1
+10839,,No relevent experience,no_enrollment,Masters,STEM,3,1,29,0
+26105,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,2,74,0
+31184,Male,Has relevent experience,no_enrollment,Masters,STEM,8,1,130,0
+16734,,No relevent experience,no_enrollment,,,5,0,12,0
+17717,Female,No relevent experience,no_enrollment,Degree,STEM,2,2,94,1
+28328,Male,Has relevent experience,no_enrollment,High School,,10,4,38,0
+14655,,Has relevent experience,no_enrollment,High School,,>20,>4,52,0
+29296,Male,No relevent experience,no_enrollment,Masters,Other,5,1,100,0
+18501,Male,Has relevent experience,no_enrollment,Degree,STEM,15,>4,6,0
+8376,Female,No relevent experience,no_enrollment,Masters,Humanities,4,1,23,0
+24327,Male,Has relevent experience,no_enrollment,Masters,STEM,7,1,21,1
+18231,Male,Has relevent experience,no_enrollment,Degree,STEM,4,1,78,0
+17390,Male,Has relevent experience,no_enrollment,High School,,10,1,109,0
+19014,,Has relevent experience,no_enrollment,Masters,STEM,10,2,3,0
+1388,,Has relevent experience,no_enrollment,Degree,Arts,5,1,42,0
+23166,Male,Has relevent experience,no_enrollment,Degree,STEM,4,1,53,0
+14328,Male,Has relevent experience,no_enrollment,Degree,Business Degree,2,1,198,1
+27851,Female,Has relevent experience,no_enrollment,Degree,STEM,16,>4,130,0
+20798,Male,No relevent experience,no_enrollment,High School,,7,0,150,0
+29293,Male,Has relevent experience,no_enrollment,High School,,16,1,143,0
+23971,Female,No relevent experience,no_enrollment,Degree,STEM,3,1,72,0
+29363,Male,No relevent experience,Full time course,Degree,STEM,4,0,113,1
+18547,,Has relevent experience,no_enrollment,Degree,Other,<1,1,5,1
+4507,Male,Has relevent experience,no_enrollment,High School,,16,2,34,0
+5270,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,2,37,1
+32709,Other,Has relevent experience,no_enrollment,Degree,STEM,7,2,22,0
+13281,Male,No relevent experience,no_enrollment,High School,,9,0,144,0
+23638,,Has relevent experience,no_enrollment,Degree,STEM,3,1,161,0
+20024,Male,Has relevent experience,Full time course,Degree,STEM,>20,>4,52,0
+30692,Male,No relevent experience,Full time course,Degree,STEM,4,1,13,1
+23190,,Has relevent experience,no_enrollment,Masters,STEM,7,2,168,0
+10727,Female,Has relevent experience,Part time course,Degree,STEM,18,0,38,0
+15595,Male,Has relevent experience,no_enrollment,Degree,STEM,14,1,156,0
+11183,Female,Has relevent experience,no_enrollment,Degree,STEM,>20,4,42,0
+2740,,Has relevent experience,Full time course,Degree,STEM,5,0,69,0
+33311,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,>4,55,0
+9650,Male,Has relevent experience,no_enrollment,Degree,STEM,19,1,86,0
+28439,Male,Has relevent experience,,Degree,STEM,7,1,194,0
+4859,Male,Has relevent experience,Full time course,High School,,5,1,116,0
+4152,,Has relevent experience,Full time course,Degree,STEM,4,4,152,0
+14103,Male,Has relevent experience,Part time course,Degree,STEM,15,>4,328,0
+31146,Male,Has relevent experience,Part time course,Degree,STEM,3,0,33,0
+26211,Male,Has relevent experience,Full time course,Degree,STEM,6,2,23,1
+27876,Male,Has relevent experience,no_enrollment,Degree,STEM,18,1,70,0
+5224,Male,No relevent experience,no_enrollment,Degree,STEM,>20,1,12,0
+39,,Has relevent experience,no_enrollment,Masters,Other,10,1,43,0
+16890,Male,Has relevent experience,no_enrollment,Degree,STEM,2,2,112,1
+8109,Male,Has relevent experience,no_enrollment,Degree,STEM,11,1,114,0
+400,Male,Has relevent experience,no_enrollment,Degree,STEM,15,>4,23,0
+15233,Male,No relevent experience,Part time course,Degree,Arts,4,1,111,1
+18874,Male,Has relevent experience,no_enrollment,Degree,STEM,6,1,144,0
+8526,,Has relevent experience,no_enrollment,Degree,STEM,7,1,43,0
+24279,,Has relevent experience,no_enrollment,Degree,STEM,3,1,18,0
+20047,Male,Has relevent experience,no_enrollment,Degree,STEM,6,1,11,0
+4204,Male,Has relevent experience,Full time course,Primary School,,11,1,8,0
+13646,Male,Has relevent experience,no_enrollment,Degree,STEM,3,1,10,0
+19297,Male,Has relevent experience,no_enrollment,Degree,STEM,9,1,322,0
+300,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,1,42,0
+24525,,No relevent experience,no_enrollment,Masters,STEM,2,0,51,1
+31909,Male,No relevent experience,Full time course,Degree,STEM,10,1,30,0
+3102,Male,Has relevent experience,no_enrollment,Phd,STEM,18,1,256,0
+3227,Male,No relevent experience,Part time course,Degree,STEM,8,2,6,0
+11315,Male,No relevent experience,Full time course,Degree,STEM,4,4,24,1
+1496,Male,Has relevent experience,no_enrollment,Masters,STEM,10,1,20,0
+9026,Male,Has relevent experience,no_enrollment,Degree,STEM,6,2,59,0
+5348,Female,No relevent experience,Full time course,Degree,STEM,9,1,12,0
+27958,Male,Has relevent experience,no_enrollment,Degree,STEM,12,4,89,0
+9313,Male,Has relevent experience,no_enrollment,Degree,STEM,4,4,48,0
+17645,Male,Has relevent experience,,,,12,>4,18,0
+24736,Male,No relevent experience,Full time course,High School,,4,0,160,1
+6347,Male,No relevent experience,no_enrollment,Masters,STEM,>20,>4,47,1
+4930,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,4,28,0
+23630,Male,No relevent experience,no_enrollment,High School,,<1,0,11,0
+24379,Male,Has relevent experience,Full time course,Degree,STEM,6,0,118,0
+15030,Other,Has relevent experience,,Degree,STEM,6,1,24,0
+1115,,Has relevent experience,Part time course,Degree,STEM,3,2,8,1
+125,,Has relevent experience,no_enrollment,Masters,STEM,7,2,22,0
+8741,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,2,19,0
+6158,Male,Has relevent experience,no_enrollment,High School,,>20,1,40,1
+22509,,No relevent experience,Full time course,Masters,STEM,4,1,51,1
+28998,Male,Has relevent experience,no_enrollment,Degree,STEM,11,>4,17,0
+23404,Male,Has relevent experience,no_enrollment,Degree,STEM,11,1,12,0
+17822,Male,No relevent experience,Full time course,Degree,STEM,2,1,68,1
+15154,Male,Has relevent experience,no_enrollment,Degree,STEM,11,1,10,1
+8673,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,3,74,0
+1087,Male,Has relevent experience,no_enrollment,Degree,STEM,19,>4,163,0
+5128,Male,No relevent experience,no_enrollment,Primary School,,<1,0,25,0
+6507,,No relevent experience,Full time course,High School,,3,0,94,0
+12141,,No relevent experience,no_enrollment,Degree,STEM,4,1,72,1
+3444,Male,Has relevent experience,no_enrollment,Degree,STEM,14,1,146,0
+31463,,No relevent experience,Full time course,Degree,STEM,1,0,16,1
+25684,Male,Has relevent experience,no_enrollment,High School,,6,1,70,0
+12965,,No relevent experience,Part time course,Primary School,,1,0,156,0
+2669,,No relevent experience,,,,<1,0,9,0
+21401,Male,Has relevent experience,no_enrollment,Masters,STEM,15,>4,128,0
+6690,Male,Has relevent experience,no_enrollment,Degree,STEM,17,1,52,0
+19223,,Has relevent experience,no_enrollment,Degree,STEM,10,1,45,0
+15791,,Has relevent experience,no_enrollment,Degree,STEM,12,>4,64,1
+14955,Male,Has relevent experience,Full time course,Degree,Humanities,3,1,164,0
+23136,,No relevent experience,no_enrollment,Degree,,5,>4,43,0
+3273,Male,Has relevent experience,no_enrollment,Degree,STEM,12,>4,141,0
+25347,,No relevent experience,Full time course,Degree,,<1,1,46,0
+4380,Male,Has relevent experience,no_enrollment,Degree,STEM,5,1,18,0
+30315,,No relevent experience,no_enrollment,Degree,Other,9,3,31,0
+12066,,Has relevent experience,no_enrollment,High School,,4,2,38,0
+15616,,Has relevent experience,no_enrollment,High School,,>20,>4,12,0
+2552,Male,Has relevent experience,no_enrollment,Masters,STEM,12,>4,16,0
+15834,,No relevent experience,,,,5,0,30,0
+24330,Male,Has relevent experience,no_enrollment,Degree,STEM,8,1,6,1
+17032,Male,No relevent experience,no_enrollment,High School,,3,2,12,0
+23819,Male,No relevent experience,Part time course,Degree,STEM,3,1,78,1
+5044,Male,No relevent experience,no_enrollment,Degree,Arts,18,4,20,0
+12661,Male,Has relevent experience,Part time course,Degree,STEM,19,>4,112,0
+4739,Male,Has relevent experience,no_enrollment,,,3,1,51,1
+13308,,Has relevent experience,no_enrollment,Degree,STEM,11,1,25,1
+30744,Male,No relevent experience,Full time course,High School,,<1,1,87,1
+23487,Male,Has relevent experience,no_enrollment,Masters,Humanities,>20,0,42,0
+15096,Female,Has relevent experience,no_enrollment,Degree,STEM,17,>4,10,1
+10566,,No relevent experience,Full time course,Degree,STEM,15,2,156,1
+10743,Male,Has relevent experience,no_enrollment,Degree,No Major,2,1,31,0
+29656,Male,Has relevent experience,no_enrollment,Degree,Arts,3,0,9,1
+10867,,No relevent experience,,High School,,2,0,60,0
+26290,Female,No relevent experience,Part time course,High School,,4,1,74,1
+16115,Male,Has relevent experience,no_enrollment,Degree,STEM,20,2,104,0
+4638,Male,Has relevent experience,Part time course,High School,,4,1,32,1
+9235,Male,No relevent experience,,Degree,STEM,3,1,42,0
+7936,Male,Has relevent experience,no_enrollment,Masters,STEM,8,2,124,0
+24086,Male,No relevent experience,no_enrollment,Degree,STEM,10,1,50,0
+13568,Male,Has relevent experience,no_enrollment,Degree,STEM,2,2,17,0
+5432,,No relevent experience,no_enrollment,Degree,STEM,<1,2,25,0
+5939,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,2,24,0
+1339,Male,No relevent experience,Part time course,Degree,STEM,3,>4,16,1
+20051,Male,Has relevent experience,no_enrollment,Degree,STEM,16,2,83,0
+1775,Male,Has relevent experience,no_enrollment,Masters,STEM,10,>4,96,1
+20521,Male,Has relevent experience,no_enrollment,Degree,STEM,12,1,98,1
+13804,Male,Has relevent experience,no_enrollment,Primary School,,7,1,9,0
+26999,Male,No relevent experience,Part time course,Degree,STEM,3,1,55,0
+31482,Male,Has relevent experience,no_enrollment,Degree,STEM,2,1,9,0
+11178,Male,Has relevent experience,no_enrollment,Degree,STEM,4,1,88,0
+24443,,Has relevent experience,Full time course,Degree,STEM,6,4,107,0
+497,Male,Has relevent experience,no_enrollment,Degree,STEM,>20,3,100,0
+8924,,Has relevent experience,no_enrollment,Degree,STEM,4,1,98,0
+6994,,Has relevent experience,,Masters,STEM,8,3,47,1
+215,,Has relevent experience,Full time course,High School,,14,2,45,0
+12193,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1,77,0
+3022,Male,Has relevent experience,no_enrollment,Degree,STEM,3,1,107,0

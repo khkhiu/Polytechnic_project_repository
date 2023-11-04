@@ -1,0 +1,122 @@
+// Count7SegSw.c
+// Counting on 4 7-segment display by a switch on 7-seg Board
+
+#include <p18F4550.h>
+#include <delays.h>
+
+// Include this when using Bootloader Program ================================
+#pragma udata
+
+extern void _startup (void);        // See c018i.c in your C18 compiler dir
+#pragma code _RESET_INTERRUPT_VECTOR = 0x000800
+void _reset (void)
+{
+    _asm goto _startup _endasm
+}
+#pragma code
+
+#pragma code _HIGH_INTERRUPT_VECTOR = 0x000808
+void _high_ISR (void)
+{
+    ;
+}
+
+#pragma code _LOW_INTERRUPT_VECTOR = 0x000818
+void _low_ISR (void)
+{
+    ;
+}
+#pragma code
+
+#pragma code
+
+//  Ends here ===============================================================
+
+// Program starts here:
+
+//Global data (try to minimize):
+unsigned char val[4]={9,8,7,6};//Init data for DIG3-0
+
+//---------------------------------------------------
+unsigned char convert(unsigned char c)		//Function to change value to LED code
+{
+	if(c==0)return 0b00111111;
+	if(c==1)return 0b00000110;
+	if(c==2)return 0b01011011;
+	if(c==3)return 0b01001111;
+	if(c==4)return 0b01100110;
+	if(c==5)return 0b01101101;
+	if(c==6)return 0b01111101;
+	if(c==7)return 0b00000111;
+	if(c==8)return 0b01111111;
+	if(c==9)return 0b01101111;
+
+	return 0b00000000; // If none of the above
+}
+//---------------------------------------------------
+void update(void)			//Function to adjust DIG values
+{
+	++val[0];		//increase DIG0 value 
+
+	if(val[0]>=10)
+	{
+		val[1]=val[1]+1;
+		val[0]=0;
+	}
+
+	if(val[1]>=10)
+	{
+		val[2]=val[2]+1;
+		val[1]=0;
+	}
+	if(val[2]>=10)
+	{
+		val[3]=val[3]+1;
+		val[2]=0;
+	}
+	if(val[3]>=10)
+	{
+		val[3]=0;
+	}
+}
+//---------------------------------------------------
+void main(void)
+{
+unsigned char index,point,outchar,press;
+
+	ADCON1 = 0x0F;
+	TRISB=0b11110000;	//RB3 to RB0 are connected DIG3 to DIG0 active high
+				//RB5 is connected to a switch
+	TRISD=0b00000000;	//RD7 to RD0 are connected to segment LEDs active high
+
+	press=0;
+	
+	while(1)			//repeat 
+	{
+		point = 0b00000001;	//enable DIG0
+
+		for (index = 0; index < 4; index++)
+		{
+			PORTB = point;			//enable one DIG
+			PORTD = convert(val[index]);//show the number
+
+			point = point<<1;		//point to the next DIG
+			Delay1KTCYx(10);
+		}
+
+		if(press==0)					//switch press first time
+		{		
+			if(PORTBbits.RB5==0)		//if RB5sw is ON
+			{
+				press=1;			//switch being pressed
+				update();			//adjust the DIG values
+			}
+		}
+	
+		if(PORTBbits.RB5==1) press=0;	//switch released
+	}
+}
+
+
+		
+

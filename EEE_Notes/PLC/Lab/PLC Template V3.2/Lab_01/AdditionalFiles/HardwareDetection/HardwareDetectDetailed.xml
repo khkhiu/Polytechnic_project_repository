@@ -1,0 +1,344 @@
+<OnlineDevices>
+  <OnlineDevice VendorID="2A" DeviceID="A0B" TypeID="2A0A0B" DeviceType="SCALANCE XC-200" IsInSameSubnetAsOwnPgPc="True">
+    <DeviceRole>Device</DeviceRole>
+    <OrderNumber>6GK5 208-0BA00-2AC2</OrderNumber>
+    <NameOfStation>switchxb18774</NameOfStation>
+    <MacAddress>20-87-56-EE-A8-ED</MacAddress>
+    <IPAddress>192.168.0.2</IPAddress>
+    <SubnetMask>255.255.255.0</SubnetMask>
+    <RevisionPrefix>V</RevisionPrefix>
+    <IMVersionMajor>4</IMVersionMajor>
+    <IMVersionMinor>1</IMVersionMinor>
+    <Modules>
+      <Module VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+        <ModuleType>HeadModule</ModuleType>
+        <ModuleIdentNumber>31</ModuleIdentNumber>
+        <SlotNumber>0</SlotNumber>
+        <OrderNumber>6GK5 208-0BA00-2AC2</OrderNumber>
+        <RevisionPrefix>V</RevisionPrefix>
+        <IMVersionMajor>1</IMVersionMajor>
+        <IMVersionMinor>1</IMVersionMinor>
+        <SubModules>
+          <SubModule VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+            <SubModuleIdentNumber>65537</SubModuleIdentNumber>
+            <SubSlotNumber>1</SubSlotNumber>
+            <OrderNumber>6GK5 208-0BA00-2AC2</OrderNumber>
+            <RevisionPrefix>V</RevisionPrefix>
+            <IMVersionMajor>1</IMVersionMajor>
+            <IMVersionMinor>1</IMVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <SubModuleIdentNumber>257</SubModuleIdentNumber>
+            <SubSlotNumber>32768</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <IMVersionMajor>0</IMVersionMajor>
+            <IMVersionMinor>0</IMVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <SubModuleIdentNumber>268435458</SubModuleIdentNumber>
+            <SubSlotNumber>32769</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <IMVersionMajor>0</IMVersionMajor>
+            <IMVersionMinor>0</IMVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <SubModuleIdentNumber>268435458</SubModuleIdentNumber>
+            <SubSlotNumber>32770</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <IMVersionMajor>0</IMVersionMajor>
+            <IMVersionMinor>0</IMVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <SubModuleIdentNumber>268435458</SubModuleIdentNumber>
+            <SubSlotNumber>32771</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <IMVersionMajor>0</IMVersionMajor>
+            <IMVersionMinor>0</IMVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <SubModuleIdentNumber>268435458</SubModuleIdentNumber>
+            <SubSlotNumber>32772</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <IMVersionMajor>0</IMVersionMajor>
+            <IMVersionMinor>0</IMVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <SubModuleIdentNumber>268435458</SubModuleIdentNumber>
+            <SubSlotNumber>32773</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <IMVersionMajor>0</IMVersionMajor>
+            <IMVersionMinor>0</IMVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <SubModuleIdentNumber>268435458</SubModuleIdentNumber>
+            <SubSlotNumber>32774</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <IMVersionMajor>0</IMVersionMajor>
+            <IMVersionMinor>0</IMVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <SubModuleIdentNumber>268435458</SubModuleIdentNumber>
+            <SubSlotNumber>32775</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <IMVersionMajor>0</IMVersionMajor>
+            <IMVersionMinor>0</IMVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <SubModuleIdentNumber>268435458</SubModuleIdentNumber>
+            <SubSlotNumber>32776</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <IMVersionMajor>0</IMVersionMajor>
+            <IMVersionMinor>0</IMVersionMinor>
+          </SubModule>
+        </SubModules>
+      </Module>
+    </Modules>
+  </OnlineDevice>
+  <OnlineDevice VendorID="2A" DeviceID="313" TypeID="2A0313" DeviceType="ET200SP" IsInSameSubnetAsOwnPgPc="True">
+    <DeviceRole>Device</DeviceRole>
+    <OrderNumber>6ES7 155-6AU01-0CN0</OrderNumber>
+    <NameOfStation>ioxadevicexb1652a</NameOfStation>
+    <MacAddress>AC-64-17-5D-3D-97</MacAddress>
+    <IPAddress>192.168.0.6</IPAddress>
+    <SubnetMask>255.255.255.0</SubnetMask>
+    <RevisionPrefix>V</RevisionPrefix>
+    <IMVersionMajor>4</IMVersionMajor>
+    <IMVersionMinor>2</IMVersionMinor>
+    <Modules>
+      <Module VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+        <ModuleType>HeadModule</ModuleType>
+        <ModuleIdentNumber>739081</ModuleIdentNumber>
+        <SlotNumber>0</SlotNumber>
+        <OrderNumber>6ES7 155-6AU01-0CN0</OrderNumber>
+        <RevisionPrefix>V</RevisionPrefix>
+        <IMVersionMajor>1</IMVersionMajor>
+        <IMVersionMinor>1</IMVersionMinor>
+        <SubModules>
+          <SubModule VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+            <SubModuleIdentNumber>2</SubModuleIdentNumber>
+            <SubSlotNumber>1</SubSlotNumber>
+            <OrderNumber>6ES7 155-6AU01-0CN0</OrderNumber>
+            <RevisionPrefix>V</RevisionPrefix>
+            <IMVersionMajor>1</IMVersionMajor>
+            <IMVersionMinor>1</IMVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <SubModuleIdentNumber>32771</SubModuleIdentNumber>
+            <SubSlotNumber>32768</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <IMVersionMajor>0</IMVersionMajor>
+            <IMVersionMinor>0</IMVersionMinor>
+          </SubModule>
+          <SubModule VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+            <SubModuleIdentNumber>49152</SubModuleIdentNumber>
+            <SubSlotNumber>32769</SubSlotNumber>
+            <OrderNumber>6ES7 193-6AR00-0AA0</OrderNumber>
+            <RevisionPrefix>V</RevisionPrefix>
+            <IMVersionMajor>1</IMVersionMajor>
+            <IMVersionMinor>1</IMVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <SubModuleIdentNumber>49152</SubModuleIdentNumber>
+            <SubSlotNumber>32770</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <IMVersionMajor>0</IMVersionMajor>
+            <IMVersionMinor>0</IMVersionMinor>
+          </SubModule>
+        </SubModules>
+      </Module>
+      <Module VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+        <ModuleType>Module</ModuleType>
+        <ModuleIdentNumber>19859</ModuleIdentNumber>
+        <SlotNumber>1</SlotNumber>
+        <OrderNumber>6ES7 132-6BF00-0CA0</OrderNumber>
+        <RevisionPrefix>V</RevisionPrefix>
+        <IMVersionMajor>1</IMVersionMajor>
+        <IMVersionMinor>1</IMVersionMinor>
+        <SubModules>
+          <SubModule VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+            <SubModuleIdentNumber>8</SubModuleIdentNumber>
+            <SubSlotNumber>1</SubSlotNumber>
+            <OrderNumber>6ES7 132-6BF00-0CA0</OrderNumber>
+            <RevisionPrefix>V</RevisionPrefix>
+            <IMVersionMajor>1</IMVersionMajor>
+            <IMVersionMinor>1</IMVersionMinor>
+          </SubModule>
+        </SubModules>
+      </Module>
+      <Module VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+        <ModuleType>Module</ModuleType>
+        <ModuleIdentNumber>19859</ModuleIdentNumber>
+        <SlotNumber>2</SlotNumber>
+        <OrderNumber>6ES7 132-6BF00-0CA0</OrderNumber>
+        <RevisionPrefix>V</RevisionPrefix>
+        <IMVersionMajor>1</IMVersionMajor>
+        <IMVersionMinor>1</IMVersionMinor>
+        <SubModules>
+          <SubModule VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+            <SubModuleIdentNumber>8</SubModuleIdentNumber>
+            <SubSlotNumber>1</SubSlotNumber>
+            <OrderNumber>6ES7 132-6BF00-0CA0</OrderNumber>
+            <RevisionPrefix>V</RevisionPrefix>
+            <IMVersionMajor>1</IMVersionMajor>
+            <IMVersionMinor>1</IMVersionMinor>
+          </SubModule>
+        </SubModules>
+      </Module>
+      <Module VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+        <ModuleType>Module</ModuleType>
+        <ModuleIdentNumber>19789</ModuleIdentNumber>
+        <SlotNumber>3</SlotNumber>
+        <OrderNumber>6ES7 131-6BF00-0CA0</OrderNumber>
+        <RevisionPrefix>V</RevisionPrefix>
+        <IMVersionMajor>1</IMVersionMajor>
+        <IMVersionMinor>1</IMVersionMinor>
+        <SubModules>
+          <SubModule VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+            <SubModuleIdentNumber>8</SubModuleIdentNumber>
+            <SubSlotNumber>1</SubSlotNumber>
+            <OrderNumber>6ES7 131-6BF00-0CA0</OrderNumber>
+            <RevisionPrefix>V</RevisionPrefix>
+            <IMVersionMajor>1</IMVersionMajor>
+            <IMVersionMinor>1</IMVersionMinor>
+          </SubModule>
+        </SubModules>
+      </Module>
+      <Module VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+        <ModuleType>Module</ModuleType>
+        <ModuleIdentNumber>19789</ModuleIdentNumber>
+        <SlotNumber>4</SlotNumber>
+        <OrderNumber>6ES7 131-6BF00-0CA0</OrderNumber>
+        <RevisionPrefix>V</RevisionPrefix>
+        <IMVersionMajor>1</IMVersionMajor>
+        <IMVersionMinor>1</IMVersionMinor>
+        <SubModules>
+          <SubModule VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+            <SubModuleIdentNumber>8</SubModuleIdentNumber>
+            <SubSlotNumber>1</SubSlotNumber>
+            <OrderNumber>6ES7 131-6BF00-0CA0</OrderNumber>
+            <RevisionPrefix>V</RevisionPrefix>
+            <IMVersionMajor>1</IMVersionMajor>
+            <IMVersionMinor>1</IMVersionMinor>
+          </SubModule>
+        </SubModules>
+      </Module>
+      <Module VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+        <ModuleType>Module</ModuleType>
+        <ModuleIdentNumber>19025</ModuleIdentNumber>
+        <SlotNumber>5</SlotNumber>
+        <OrderNumber>6ES7 134-6HB00-0DA1</OrderNumber>
+        <RevisionPrefix>V</RevisionPrefix>
+        <IMVersionMajor>1</IMVersionMajor>
+        <IMVersionMinor>1</IMVersionMinor>
+        <SubModules>
+          <SubModule VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+            <SubModuleIdentNumber>2</SubModuleIdentNumber>
+            <SubSlotNumber>1</SubSlotNumber>
+            <OrderNumber>6ES7 134-6HB00-0DA1</OrderNumber>
+            <RevisionPrefix>V</RevisionPrefix>
+            <IMVersionMajor>1</IMVersionMajor>
+            <IMVersionMinor>1</IMVersionMinor>
+          </SubModule>
+        </SubModules>
+      </Module>
+      <Module VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+        <ModuleType>Module</ModuleType>
+        <ModuleIdentNumber>19025</ModuleIdentNumber>
+        <SlotNumber>6</SlotNumber>
+        <OrderNumber>6ES7 134-6HB00-0DA1</OrderNumber>
+        <RevisionPrefix>V</RevisionPrefix>
+        <IMVersionMajor>1</IMVersionMajor>
+        <IMVersionMinor>1</IMVersionMinor>
+        <SubModules>
+          <SubModule VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+            <SubModuleIdentNumber>2</SubModuleIdentNumber>
+            <SubSlotNumber>1</SubSlotNumber>
+            <OrderNumber>6ES7 134-6HB00-0DA1</OrderNumber>
+            <RevisionPrefix>V</RevisionPrefix>
+            <IMVersionMajor>1</IMVersionMajor>
+            <IMVersionMinor>1</IMVersionMinor>
+          </SubModule>
+        </SubModules>
+      </Module>
+      <Module VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+        <ModuleType>Module</ModuleType>
+        <ModuleIdentNumber>19080</ModuleIdentNumber>
+        <SlotNumber>7</SlotNumber>
+        <OrderNumber>6ES7 135-6HB00-0DA1</OrderNumber>
+        <RevisionPrefix>V</RevisionPrefix>
+        <IMVersionMajor>1</IMVersionMajor>
+        <IMVersionMinor>1</IMVersionMinor>
+        <SubModules>
+          <SubModule VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+            <SubModuleIdentNumber>2</SubModuleIdentNumber>
+            <SubSlotNumber>1</SubSlotNumber>
+            <OrderNumber>6ES7 135-6HB00-0DA1</OrderNumber>
+            <RevisionPrefix>V</RevisionPrefix>
+            <IMVersionMajor>1</IMVersionMajor>
+            <IMVersionMinor>1</IMVersionMinor>
+          </SubModule>
+        </SubModules>
+      </Module>
+      <Module VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+        <ModuleType>Module</ModuleType>
+        <ModuleIdentNumber>19465</ModuleIdentNumber>
+        <SlotNumber>8</SlotNumber>
+        <OrderNumber>6ES7 137-6BD00-0BA0</OrderNumber>
+        <RevisionPrefix>V</RevisionPrefix>
+        <IMVersionMajor>1</IMVersionMajor>
+        <IMVersionMinor>1</IMVersionMinor>
+        <SubModules>
+          <SubModule VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+            <SubModuleIdentNumber>221</SubModuleIdentNumber>
+            <SubSlotNumber>1</SubSlotNumber>
+            <OrderNumber>6ES7 137-6BD00-0BA0</OrderNumber>
+            <RevisionPrefix>V</RevisionPrefix>
+            <IMVersionMajor>1</IMVersionMajor>
+            <IMVersionMinor>1</IMVersionMinor>
+          </SubModule>
+        </SubModules>
+      </Module>
+      <Module VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+        <ModuleType>Module</ModuleType>
+        <ModuleIdentNumber>18192</ModuleIdentNumber>
+        <SlotNumber>9</SlotNumber>
+        <OrderNumber>6ES7 193-6PA00-0AA0</OrderNumber>
+        <RevisionPrefix>V</RevisionPrefix>
+        <IMVersionMajor>1</IMVersionMajor>
+        <IMVersionMinor>1</IMVersionMinor>
+        <SubModules>
+          <SubModule VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+            <SubModuleIdentNumber>64</SubModuleIdentNumber>
+            <SubSlotNumber>1</SubSlotNumber>
+            <OrderNumber>6ES7 193-6PA00-0AA0</OrderNumber>
+            <RevisionPrefix>V</RevisionPrefix>
+            <IMVersionMajor>1</IMVersionMajor>
+            <IMVersionMinor>1</IMVersionMinor>
+          </SubModule>
+        </SubModules>
+      </Module>
+    </Modules>
+  </OnlineDevice>
+</OnlineDevices>

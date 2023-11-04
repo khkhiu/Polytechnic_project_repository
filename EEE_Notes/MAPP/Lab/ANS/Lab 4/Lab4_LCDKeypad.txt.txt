@@ -1,0 +1,218 @@
+// TestLCDKey.c
+// Program to test LCD and keypad.
+// For project using USB interface with Bootloader
+
+// The LCD display with two lines, 24 characters each.
+// There are three control lines (RD4:RD6) and four data lines (RD3:RD0).
+// RD6 - RS=0 Data represents Command, RS=1 Data represents Character
+// RD5 - RW=0 Writing into the LCD module
+// RD4 - E =1 Data is latched into LCD module during low to hight transition
+
+// The keypad is connected to an keypad encoder which generate 0000 to 1111
+// RB5 - DA Data Available pin output 1 when a key is pressed
+// RB3 to RB0 - Data output by encoder
+
+
+#include <p18F4550.h>
+#include <delays.h>
+#include "lcd.h"	// Include file is located in the project directory
+
+// Include this when using Bootloader Program ================================
+#pragma udata
+
+extern void _startup (void);        // See c018i.c in your C18 compiler dir
+#pragma code _RESET_INTERRUPT_VECTOR = 0x000800
+void _reset (void)
+{
+    _asm goto _startup _endasm
+}
+#pragma code
+
+#pragma code _HIGH_INTERRUPT_VECTOR = 0x000808
+void _high_ISR (void)
+{
+    ;
+}
+
+#pragma code _LOW_INTERRUPT_VECTOR = 0x000818
+void _low_ISR (void)
+{
+    ;
+}
+#pragma code
+
+#pragma code
+
+// additional codes ends here ===============================================================
+
+// Your program declarations start here:====
+
+#define LCD_RS PORTDbits.RD6    //  Register Select on LCD
+#define LCD_EN PORTDbits.RD4    //  Enable on LCD controller
+#define LCD_WR PORTDbits.RD5    //  Write on LCD controller
+
+#define KEY_DA PORTBbits.RB5   	//  74922 DA output
+#define KEY_PORT PORTB			//	RB3 to RB0 has keypad data
+
+//--- Function for writing a command byte to the LCD in 4 bit mode -------------
+
+void lcd_write_cmd(signed char cmd)
+{
+    unsigned char temp2;
+    LCD_RS = 0;					// Select LCD for command mode
+    Delay10TCYx(4);				// 40us delay for LCD to settle down
+    temp2 = cmd;
+    temp2 = temp2 >> 4;			// Output upper 4 bits, by shifting out lower 4 bits
+    PORTD = temp2 & 0x0F;		// Output to PORTD which is connected to LCD
+
+    Delay1KTCYx(10);			// 10ms -Delay at least 1 ms before strobing
+    lcd_strobe();
+
+	Delay1KTCYx(10);			// 10ms - Delay at least 1 ms after strobing
+
+    temp2 = cmd;				// Re-initialise temp2
+   	PORTD = temp2 & 0x0F;		// Mask out upper 4 bits
+
+    Delay1KTCYx(10);			// 10ms - Delay at least 1 ms before strobing
+    lcd_strobe();
+
+    Delay1KTCYx(10);			// 10ms - Delay at least 1 ms before strobing
+
+}
+
+
+//---- Function to write a character data to the LCD ---------------------------
+
+void lcd_write_data(char data)
+{
+    char temp1;
+
+    LCD_RS = 1;					// Select LCD for data mode
+    Delay10TCYx(4);				// 40us delay for LCD to settle down
+
+    temp1 = data;
+    temp1 = temp1 >> 4;
+    PORTD = temp1 & 0x0F;
+    Delay1KTCYx(10);
+	LCD_RS = 1;
+    Delay1KTCYx(10);			//_-_ strobe data in
+
+    lcd_strobe();
+    Delay1KTCYx(10);
+
+    temp1 = data;
+    PORTD = temp1 & 0x0F;
+	Delay1KTCYx(10);
+    LCD_RS = 1;
+    Delay1KTCYx(10); 			//_-_ strobe data in
+
+    lcd_strobe();
+    Delay1KTCYx(10);
+
+}
+
+
+//-- Function to generate the strobe signal for command and character----------
+
+void lcd_strobe(void)			// Generate the E pulse
+{
+
+    LCD_EN = 1;					// E = 0
+    Delay1KTCYx(1);				// 1ms delay for LCD_EN to settle
+      LCD_EN = 0;				// E = 1
+    Delay1KTCYx(1);				// 1ms delay for LCD_EN to settle
+
+}
+
+
+
+//---- Function to initialise LCD module ----------------------------------------
+void lcd_init(void)
+{
+    TRISD = 0x00;
+    PORTD = 0x00;				// PORTD is connected to LCD data pin
+    LCD_EN = 0;
+    LCD_RS = 0;					// Select LCD for command mode
+    LCD_WR = 0;					// Select LCD for write mode
+
+    Delay10KTCYx(250);			// Delay a total of 1 s for LCD module to
+    Delay10KTCYx(250);			//
+    Delay10KTCYx(250);			//
+    Delay10KTCYx(250);			// finish its own internal initialisation
+
+    /* The data sheets warn that the LCD module may fail to initialise properly when
+       power is first applied. This is particularly likely if the Vdd
+       supply does not rise to its correct operating voltage quickly enough.
+
+       It is recommended that after power is applied, a command sequence of
+       3 bytes of 3xh be sent to the module. This will ensure that the module is in
+       8-bit mode and is properly initialised. Following this, the LCD module can be
+       switched to 4-bit mode.
+    */
+
+    lcd_write_cmd(0x33);
+    lcd_write_cmd(0x32);
+
+    lcd_write_cmd(0x28);		// 001010xx – Function Set instruction
+    							// DL=0 :4-bit interface,N=1 :2 lines,F=0 :5x7 dots
+
+    lcd_write_cmd(0x0E);		// 00001110 – Display On/Off Control instruction
+    							// D=1 :Display on,C=1 :Cursor on,B=0 :Cursor Blink on
+
+    lcd_write_cmd(0x06);		// 00000110 – Entry Mode Set instruction
+    							// I/D=1 :Increment Cursor position
+   								// S=0 : No display shift
+
+    lcd_write_cmd(0x01);		// 00000001 Clear Display instruction
+
+    Delay10KTCYx(20);			// 20 ms delay
+
+}
+
+//----- Function to obtained wait for key press and returns its ASCII value
+
+char getkey(void)
+{	char keycode;
+    const unsigned char lookup[] = "123F456E789DA0BC ";
+
+    while (KEY_DA==0);			//wait for key to be pressed
+    keycode=KEY_PORT &0x0F;		//read from encoder at portB,mask upper 4 bits
+
+    while (KEY_DA==1);			//wait for key to be released
+    return(lookup[keycode]);	//convert keycode to its ascii value for LCD
+}
+
+// ---- Main Program ---------------------------------------------------------------
+
+void main(void)
+{
+	char Message1 [ ] = "Enter PIN number :  ";	  // Defining a 20 char string
+	unsigned char key;
+	int i;
+
+	lcd_init();						// Initialise LCD module
+
+	while(1)
+	{
+		lcd_write_cmd(0x01);			// 00000001 Clear Display instruction
+//		lcd_write_cmd(0x80);			// Move cursor to line 1 position 1
+	
+		for (i= 0; i<20; i++)					//for 20 char LCD module
+			lcd_write_data(Message1[i]); // write character data to LCD
+	  
+	 	lcd_write_cmd(0xC0);			// Move cursor to line 2 position 1
+	
+		for (i=0; i<20; i++)		//for 20 number
+	   	{ 
+			key=getkey(); 			// waits and get an ascii key number when pressed
+	   	    lcd_write_data(key);	//display on LCD
+	   	}
+	
+		for (i=0; i<5; i++)		//Repeat 5 times:
+			Delay10KTCYx(250);	// Delay 0.2s
+		}
+}
+
+
+
+
